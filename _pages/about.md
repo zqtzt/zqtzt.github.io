@@ -1,49 +1,59 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. in Physical Oceanography, with particularly focus on ocean observations and data quality improvements, ocean compound climate change, ocean warming monitoring, and compound risk assessment. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. CHENG Lijing and Prof. ZHU Jiang) in July 2024. I am the member of International Quality Controlled Ocean Database (IQuOD).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am now seeking for a post-doc position.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+You can find my CV [here](./files/Zhetao-CV-English.pdf)
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Publication lists
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Total citations: 171, H-index: 7, i-10 index: 6 (Google Scholar, 08/2024)**
 
-Create content & metadata
+[1] **Tan, Z.**, B. Zhang, X. Wu, M. Dong, L. Cheng*, 2022: Quality control for ocean observations: From present to future. *Science China-Earth Sciences*, 65(2):215-233 
+
+[2] **Tan Z.**, Cheng L.*, Gouretski V., Zhang B., Wang Y., Li F., Liu Z., Zhu J., 2023: A new automatic quality control system for ocean *in-situ* temperature observations and impact on ocean warming estimate. *Deep-Sea Research Part I*, 194, 103961
+
+[3] **Tan Z.**, Reseghetti F*, Abraham J, Cowley R, Chen K, Zhu J, Zhang B, Cheng L*, 2021: Examining the Influence of Recording System on the Pure Temperature Error in XBT Data. *Journal of Atmospheric and Oceanic Technology*, 38, 759-776. 
+
+[4] Cheng, L., Pan, Y., **Tan, Z.**, Zheng, H., Zhu, Y., Wei, W., Du, J., Yuan, H., Li, G., Ye, H., Gouretski, V., Li, Y., Trenberth, K., Abraham, J., Jin, Y., Reseghetti, F., Lin, X., Zhang, B., Chen, G., Mann, M., and Zhu, J., 2024: IAPv4 ocean temperature and ocean heat content gridded dataset, *Earth Syst. Sci. Data*. https://doi.org/10.5194/essd-2024-42. 
+
+[5] Zhang B., L. Cheng*, **Z. Tan**, V. Gouretski, F. Li, Y. Pan, H. Yuan, H. Ren, F. Reseghetti, J. Zhu, and F. Wang*, 2024: CODC-v1: a quality-controlled and bias-corrected ocean temperature profile dataset from 1940-2023. *Scientific Data**,* 11(1), 666
+
+[6] Cheng, L., J. Abraham, K. E. Trenberth, J. Fasullo, T. Boyer, M. E. Mann, J. Zhu, F. Wang, R. Locarnini, Y. Li, B. Zhang, **Z. Tan**, F. Yu, L. Wan, X. Chen, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, V. Gouretski, G. Chen, A. Mishonov, J. Reagan, 2022: Another record: Ocean warming continues through 2021 Despite La Niña Conditions. *Advances in Atmospheric Sciences*.
+
+[7] Cheng* L... **Z. Tan**, ... Y. Lu, 2024: New record ocean temperatures and related climate indicators in 2023, *Advances in Atmospheric Sciences*
+
+[8] Yuan H., L. Cheng*, Y. Pan, **Z. Tan**, Q. Liu, Z. Jin, 2024: A multi-level parallel approach to increase the computation efficiency of a global ocean temperature dataset reconstruction. *Journal of Parallel and Distributed Computing*, 104938.
+
+[9] Simoncelli, S., Cowley, R., **Tan, Z.**, Killick, R., Castelão, G., Cheng, L., Good, S., Boyer, T., Mills, B., Bhaskar, U., & Locarnini, R. (2024). The International Quality-controlled Ocean Database (IQuOD). Miscellanea INGV, 80, 139–140. https://doi.org/10.13127/MISC/80/50
+
+[10] Liu, Y, L. Cheng, Y. Pan, **Z. Tan**, J. Abraham, B. Zhang, J. Zhu, and J. Song, 2022: How well do CMIP6 and CMIP5 models simulate the climatological seasonal variations of ocean salinity? *Advances in Atmospheric Sciences*
+
+[11] Zhang B., F. Li, G. Zheng, Y. Wang, **Z. Tan,** X. Li, 2021: Developing big ocean system in support of Sustainable Development Goals: challenges and countermeasures. *Big Earth Data*, 5(4), 557-575.
+
+## Patents
+[1] Cheng L., **Z. Tan**, B. Zhang, J. Zhu., 2023. A method and system for quality control ocean profile observations. CN202310234743.4
+
+
+
+News
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+
+
+
+Contact Information
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+tanzhetao19@mails.ucas.ac.cn
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Tel: (+86) 134-1381-2907
