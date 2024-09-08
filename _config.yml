@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Zhetao Tan"
+title                    : "Dr. TAN Zhetao"
 title_separator          : "-"
 name                     : &name "Zheato Tan"
 description              : &description "Ph.D. at Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS)"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhetao Tan"
   pronouns         : "he/him"  
-  bio              : "Ph.D. in Physical Oceanography"
+  bio              : "Ph.D. in Meteorology"
   location         : "Beijing China"
   employer         : "Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS)"
   uri              : #"https://zqtzt.github.io/zhetaotan.github.io/"
