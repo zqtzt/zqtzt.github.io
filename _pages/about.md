@@ -33,11 +33,11 @@ Publication lists
 
 **Total citations: 183, H-index: 7, i-10 index: 6 (Google Scholar, 09/2024)**
 
-[1] **Tan, Z.**, B. Zhang, X. Wu, M. Dong, L. Cheng*, 2022: Quality control for ocean observations: From present to future. *Science China-Earth Sciences*, 65(2):215-233. <strong><span class='show_paper_citations' data='Bha1c94AAAAJ:d1gkVwhDpl0C'></span></strong>
+[1] **Tan, Z.**, B. Zhang, X. Wu, M. Dong, L. Cheng, 2022: Quality control for ocean observations: From present to future. *Science China-Earth Sciences*, 65(2):215-233. <strong><span class='show_paper_citations' data='Bha1c94AAAAJ:d1gkVwhDpl0C'>Citation: </span></strong>
 
-[2] **Tan Z.**, Cheng L.*, Gouretski V., Zhang B., Wang Y., Li F., Liu Z., Zhu J., 2023: A new automatic quality control system for ocean *in-situ* temperature observations and impact on ocean warming estimate. *Deep-Sea Research Part I*, 194, 103961
+[2] **Tan Z.**, Cheng L., Gouretski V., Zhang B., Wang Y., Li F., Liu Z., Zhu J., 2023: A new automatic quality control system for ocean *in-situ* temperature observations and impact on ocean warming estimate. *Deep-Sea Research Part I*, 194, 103961. <strong><span class='show_paper_citations' data='Bha1c94AAAAJ:qjMakFHDy7sC'></span></strong>
 
-[3] X. Song**†**, **Z. Tan**†, R. Locarnini, S. Simoncelli, R. Cowley, S.i Kizu, T. Boyer, F. Reseghetti, G. Castelao, V. Gouretski, L. Cheng*, 2024: An open-source algorithm for identification of duplicates in ocean database. *Frontier in Marine Science*.
+[3] X. Song**†**, **Z. Tan**†, R. Locarnini, S. Simoncelli, R. Cowley, S.i Kizu, T. Boyer, F. Reseghetti, G. Castelao, V. Gouretski, L. Cheng, 2024: An open-source algorithm for identification of duplicates in ocean database. *Frontier in Marine Science*. <span class='show_paper_citations' data='Bha1c94AAAAJ:ufrVoPGSRksC'></span>
 
 [4] **Tan Z.**, Reseghetti F*, Abraham J, Cowley R, Chen K, Zhu J, Zhang B, Cheng L*, 2021: Examining the Influence of Recording System on the Pure Temperature Error in XBT Data. *Journal of Atmospheric and Oceanic Technology*, 38, 759-776. 
 
@@ -47,9 +47,9 @@ Publication lists
 
 [7] Cheng, L., J. Abraham, K. E. Trenberth, J. Fasullo, T. Boyer, M. E. Mann, J. Zhu, F. Wang, R. Locarnini, Y. Li, B. Zhang, **Z. Tan**, F. Yu, L. Wan, X. Chen, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, V. Gouretski, G. Chen, A. Mishonov, J. Reagan, 2022: Another record: Ocean warming continues through 2021 Despite La Niña Conditions. *Advances in Atmospheric Sciences*.
 
-[8] Cheng* L... **Z. Tan**, ... Y. Lu, 2024: New record ocean temperatures and related climate indicators in 2023, *Advances in Atmospheric Sciences*
+[8] Cheng L... **Z. Tan**, ... Y. Lu, 2024: New record ocean temperatures and related climate indicators in 2023, *Advances in Atmospheric Sciences*
 
-[9] Yuan H., L. Cheng*, Y. Pan, **Z. Tan**, Q. Liu, Z. Jin, 2024: A multi-level parallel approach to increase the computation efficiency of a global ocean temperature dataset reconstruction. *Journal of Parallel and Distributed Computing*, 104938.
+[9] Yuan H., L. Cheng, Y. Pan, **Z. Tan**, Q. Liu, Z. Jin, 2024: A multi-level parallel approach to increase the computation efficiency of a global ocean temperature dataset reconstruction. *Journal of Parallel and Distributed Computing*, 104938.
 
 [10] Simoncelli, S., Cowley, R., **Tan, Z.**, Killick, R., Castelão, G., Cheng, L., Good, S., Boyer, T., Mills, B., Bhaskar, U., & Locarnini, R. (2024). The International Quality-controlled Ocean Database (IQuOD). Miscellanea INGV, 80, 139–140.
 
