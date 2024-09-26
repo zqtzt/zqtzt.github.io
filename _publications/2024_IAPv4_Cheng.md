@@ -3,7 +3,7 @@ title: "IAPv4 ocean temperature and ocean heat content gridded dataset"
 collection: publications
 category: manuscripts
 permalink: /publication/2024_IAPv4_Cheng
-excerpt: 'This paper is about the release of theIAP temperature grid data (version 4)'
+excerpt: 'This paper is about the release of the IAP temperature grid data (version 4)'
 date: 2024-08-01
 venue: 'Earth System Science Data'
 paperurl: 'https://doi.org/10.5194/essd-2024-42'
@@ -16,7 +16,7 @@ Ocean observational gridded products are vital for climate monitoring, ocean and
 
 【Chinese Version中文版】
 
-链接：https://iap.cas.cn/gb/xwdt/kyjz/202408/t20240805_7240679.html
+链接：[https://iap.cas.cn/gb/xwdt/kyjz/202408/t20240805_7240679.html](https://iap.cas.cn/gb/xwdt/kyjz/202408/t20240805_7240679.html)
 
 ​	准确的全球海洋温度和热含量格点观测数据集对于海洋和气候科学研究、气候监测及业务化应用具有重要意义。由中国科学院大气物理研究所（以下简称“大气所”）牵头，联合中国科学院计算机网络信息中心、中国科学院海洋研究所、崂山实验室、中国科学院南海海洋研究所、美国国家大气研究中心、意大利国立地球物理与火山学研究所、新西兰奥克兰大学等机构，在《Earth System Science Data》期刊上正式发布了第四代的全球海洋温度和热含量格点观测数据集（IAPv4）（Cheng* et al. 2024）。IAPv4数据集具有全球海洋1° × 1°分辨率，覆盖海洋1~6000米（119层），时间跨度自1940至今（月平均）。
 

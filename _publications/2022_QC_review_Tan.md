@@ -26,7 +26,7 @@ The researchers also recommended that more actions need to be taken to put forwa
 
 ***Reference:*** 
 
-**Tan, Z.**, B. Zhang, X. Wu, M. Dong, L. Cheng*, 2021: Quality control for ocean observations: From present to future. Scientia Sinica Terrae, https://doi.org/10.1360/SSTe-2021-0096
+**Tan, Z.**, B. Zhang, X. Wu, M. Dong, L. Cheng*, 2021: Quality control for ocean observations: From present to future. Science China Earth Science, [https://doi.org/10.1360/SSTe-2021-0096](https://doi.org/10.1360/SSTe-2021-0096)
 
 
 
@@ -34,7 +34,7 @@ The researchers also recommended that more actions need to be taken to put forwa
 
 [Chinese Version]
 
-链接：http://www.ocean.iap.ac.cn/pages/detail/detail.html?type=p&id=9ca6b7170c4b41609a210b51e13a8f72&languageType=cn&navAnchor=publications
+链接：[http://www.ocean.iap.ac.cn/pages/detail/detail.html?type=p&id=9ca6b7170c4b41609a210b51e13a8f72&languageType=cn&navAnchor=publications](http://www.ocean.iap.ac.cn/pages/detail/detail.html?type=p&id=9ca6b7170c4b41609a210b51e13a8f72&languageType=cn&navAnchor=publications)
 
 海洋观测数据的质量控制是建立高质量海洋科学数据库的基础，其对于推动海洋科学及多学科交叉研究、预测预报、灾害预警等具有重要意义。近几十年来，随着各种自动化观测平台的出现，海洋调查的深度和广度不断拓展，海洋科学已进入大数据时代。国内外对如何获得高质量的现场观测数据越来越重视。
 
@@ -54,5 +54,5 @@ The researchers also recommended that more actions need to be taken to put forwa
 
 
 
-论文（中文版）：**谭哲韬**, 张斌, 吴晓芬, 董明媚, 成里京*, 2021: 海洋观测数据质量控制技术研究现状及展望. 中国科学: 地球科学. https://doi.org/10.1360/SSTe-2021-0096 .
+论文（中文版）：**谭哲韬**, 张斌, 吴晓芬, 董明媚, 成里京*, 2021: 海洋观测数据质量控制技术研究现状及展望. 中国科学: 地球科学. [https://doi.org/10.1360/SSTe-2021-0096](https://doi.org/10.1360/SSTe-2021-0096).
 

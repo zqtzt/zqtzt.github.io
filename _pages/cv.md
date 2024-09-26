@@ -9,29 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-A full PDF file of my CV can be found [here](./files/Zhetao-CV-English.pdf)
+A full PDF file of my CV can be found [here](../files/Zhetao-CV-English.pdf)
 
-中文版个人简历请点击[这里](./files/谭哲韬-学术中文简历.pdf)
+中文版个人简历请点击[这里](../files/谭哲韬-学术中文简历.pdf)
 
 Education
 ======
-* **09/2019 – 07/2024, Ph.D., Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS)** 
+#### **[1] 2019 – 2024   Ph.D.**    **Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS)**
 
-  ​     Research Focus: physical oceanography, operational oceanography, ocean climate change
+***Research Focus***: physical oceanography, operational oceanography, ocean climate change
 
-  ​     Title of my Ph.D. Thesis: *The construction of ocean in-situ observational database and the investigation of ocean compound climatic impact-drivers*
+***Title of Ph.D. Thesis***: *The construction of ocean in-situ observational database and the investigation of ocean compound climatic impact-drivers*
 
-  ​     Supervisors: Prof. CHENG Lijing; Prof. ZHU Jiang
+***Supervisors***: Prof. CHENG Lijing; Prof. ZHU Jiang
 
-- **09/2022 – 09/2023, Visiting Ph.D., Mercator Ocean international, Toulouse, France**
+#### **[2] 2022 – 2023 Visiting Ph.D., Mercator Ocean international, Toulouse, France**
 
-​	Research Focus: Ocean compound climate change, climate risk assessment (collaborate with École Normale Supérieure du Paris, France)
+Collaborated with École Normale Supérieure du Paris, France
 
-​	Supervisors: Karina von Schuckmann, Sabrina Speich
+***Research Focus***: Ocean compound climate change, climate risk assessment 
 
-- **09/2015 - 07/2019, B.S., Chengdu University of Information Technology, Chengdu, China**
+***Supervisors***: Karina von Schuckmann, Sabrina Speich
 
-​	Major: Atmospheric Science  Cumulative GPA: 3.97/5 (top 5%)
+#### **[3] 2015 - 2019  B.S.,  Chengdu University of Information Technology, Chengdu, China**
+
+***Major***: Atmospheric Science  Cumulative GPA: 3.97/5 (top 5%)
 
 Research Interests
 ======
@@ -61,7 +63,7 @@ Publications
 
 [3] **Tan Z.**, Reseghetti F*, Abraham J, Cowley R, Chen K, Zhu J, Zhang B, Cheng L*, 2021: Examining the Influence of Recording System on the Pure Temperature Error in XBT Data. *Journal of Atmospheric and Oceanic Technology*, 38, 759-776. 
 
-[4] X. Song**†**, **Z. Tan**†, R. Locarnini, S. Simoncelli, R. Cowley, S.i Kizu, T. Boyer, F. Reseghetti, G. Castelao, V. Gouretski, L. Cheng*, 2024: An open-source algorithm for identification of duplicates in ocean database. *Frontier in Marine Science*. (co-first author; accepted)
+[4] X. Song**†**, **Z. Tan**†, R. Locarnini, S. Simoncelli, R. Cowley, S.i Kizu, T. Boyer, F. Reseghetti, G. Castelao, V. Gouretski, L. Cheng*, 2024: An open-source algorithm for identification of duplicates in ocean database. *Frontier in Marine Science*. https://doi.org/10.3389/fmars.2024.1403175
 
 [5] Cheng, L., Pan, Y., **Tan, Z.**, Zheng, H., Zhu, Y., Wei, W., Du, J., Yuan, H., Li, G., Ye, H., Gouretski, V., Li, Y., Trenberth, K., Abraham, J., Jin, Y., Reseghetti, F., Lin, X., Zhang, B., Chen, G., Mann, M., and Zhu, J., 2024: IAPv4 ocean temperature and ocean heat content gridded dataset, *Earth Syst. Sci. Data*. https://doi.org/10.5194/essd-2024-42. 
 
@@ -120,69 +122,76 @@ Service and leadership
 
 # **Presentations/Conferences/Trainings**
 
-1. 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)
+**[1] 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)**
 
-​	[Presentation title: Climind: Accelerating the dissemination of knowledge on addressing climate change risks with large language models (in Chinese)]
+<font color=#008000>[Presentation title: Climind: Accelerating the dissemination of knowledge on addressing climate change risks with large language models (in Chinese)]<font>
 
-2. 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)
+**[2] 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)**
 
-​	[Poster title: Global emergence of ocean compound climatic impact-drivers]
+<font color=#008000>[Poster title: Global emergence of ocean compound climatic impact-drivers]<font>
 
-3. 07/2023 Berlin, Germany, IUGG 2023 (Oral)
+**[3] 07/2023 Berlin, Germany, IUGG 2023 (Oral)**
 
-​	[Presentation title: A new ocean data quality control system reveals a stronger ocean warming rate]
+<font color=#008000>[Presentation title: A new ocean data quality control system reveals a stronger ocean warming rate]<font>
 
-4. 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)
+**[4] 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)**
 
-​	[Presentation title: Duplicate checking task team: progress and future work]
+<font color=#008000>[Presentation title: Duplicate checking task team: progress and future work]<font>
 
-5. 04/2023 Vienna, Austria, EGU 2023 (Oral)
+**[5] 04/2023 Vienna, Austria, EGU 2023 (Oral)**
 
-​	[Presentation title: Global emergence of compound climatic impact-drivers]
+<font color=#008000>[Presentation title: Global emergence of compound climatic impact-drivers]<font>
 
-6. 03/2023 Paris, France. École Normale Supérieure (Invited talk)
+**[6] 03/2023 Paris, France. École Normale Supérieure (Invited talk)**
 
-​	[Presentation title: Global emergence of compound climatic impact-drivers reveals a high exposure of marine environment]
+<font color=#008000>[Presentation title: Global emergence of compound climatic impact-drivers reveals a high exposure of marine environment]<font>
 
-7. 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)
+**[7] 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)**
 
-8. 10/2022 Darmstadt, Germany, 2nd Global Climate Observation System (GCOS) meeting (Participant)
+**[8] 10/2022 Darmstadt, Germany, 2nd Global Climate Observation System (GCOS) meeting (Participant)**
 
-9. 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)
+**[9] 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)**
 
-​	[Presentation title: Toward a practical quantification of uncertainty in ocean heat content (OHC) due to data quality control (QC) procedures]
+<font color=#008000>[Presentation title: Toward a practical quantification of uncertainty in ocean heat content (OHC) due to data quality control (QC) procedures]<font>
 
-10. 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.
+**[10] 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.**
 
-11. 09/2021 Beijing, China, 1st International Forum on Big Data for Sustainable Development Goals (Volunteer).
+**[11] 09/2021 Beijing, China, 1st International Forum on Big Data for Sustainable Development Goals (Volunteer).**
 
-12. 08/2021 Hohhot, China, The 7th China Science Data (Oral)
+**[12] 08/2021 Hohhot, China, The 7th China Science Data (Oral)**
 
-​	[Presentation title: Progress in developing Chinese Academy of Sciences Ocean Data Center (CODC) database (in Chinese)]
+<font color=#008000>[Presentation title: Progress in developing Chinese Academy of Sciences Ocean Data Center (CODC) database (in Chinese)]<font>
 
-13. 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)
+**[13] 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)**
 
-14. 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)
+**[14] 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)**
 
-​	[Presentation title: Time of emergence: Have the regional long-term ocean warming in the upper 2000m exceeded from the local climate variability? (in Chinese)]
+<font color=#008000>[Presentation title: Time of emergence: Have the regional long-term ocean warming in the upper 2000m exceeded from the local climate variability? (in Chinese)]<font>
 
-15. 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics
-16. 04/2021 Netherland, 2021 International conference on Marine Data and Information Systems (IMDIS), *online conference* (Participant)
-17. 10/2019 Xining, China, The 6th Youth Geosciences Forum (Participant)
-18. 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)
+**[15] 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics**
 
-​	[Presentation title: Examining the influence of recording system on the pure temperature bias in XBT data]
+**[16] 04/2021 Netherland, 2021 International conference on Marine Data and Information Systems (IMDIS), *online conference* (Participant)**
 
-19. 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)
+**[17] 10/2019 Xining, China, The 6th Youth Geosciences Forum (Participant)**
 
-20. 01/2019 Xiamen China, The 4th Xiamen Symposium on Marine Environmental Sciences (Participant)
+**[18] 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)**
 
-21. 08/2018 Beijing, China, 2018 Third Pole Environment Science & Technology Training: Geology, Geophysics, Ecology and Environmental Change (Participant)
+<font color=#008000>[Presentation title: Examining the influence of recording system on the pure temperature bias in XBT data]<font>
+
+**[19] 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)**
+
+**[20] 01/2019 Xiamen China, The 4th Xiamen Symposium on Marine Environmental Sciences (Participant)**
+
+**[21] 08/2018 Beijing, China, 2018 Third Pole Environment Science & Technology Training: Geology, Geophysics, Ecology and Environmental Change (Participant)**
 
 # Outreachs
 
-1. Chapter Contributor (e.g., literature reviews, figure creations) of the Ocean, Cryosphere, and Sea Level to the higher education textbook 'Climate Change Science Series' (in Chinese)
+[1] Chapter Contributor (e.g., literature reviews, figure creations) of the Ocean, Cryosphere, and Sea Level to the higher education textbook 'Climate Change Science Series' (in Chinese)
 
-2. Science popularization article “Conducting a ‘Health Check’ for the Ocean (给海洋做“体检”) ” in Chinese social media. (07/2022)
+[2] Science popularization article “Conducting a ‘Health Check’ for the Ocean ” in Chinese social media. (07/2022)
 
-3. Science popularization article ‘Global Ocean Warming Breaks Record in 2023: how do we understanding this phenomenon? (2023年：全球海洋变暖“破纪录”，我们该如何理解这一现象)’ in the official social media of Chinese Academy of Science (in Chinese) (01/2024)
+"科学大院"微信公众号：[《这可能是人类有史以来最大型的体检项目……》]([https://mp.weixin.qq.com/s/7ZhGeQk0P9nMqoLzbXTFbA)
+
+[3] Science popularization article ‘Global Ocean Warming Breaks Record in 2023: how do we understanding this phenomenon? (2023年：全球海洋变暖“破纪录”，我们该如何理解这一现象)’ in the official social media of Chinese Academy of Science (in Chinese) (01/2024)
+
+"中科院之声"微信公众号：[《2023年，是海洋最热的一年！我们该怎么理解？》](https://mp.weixin.qq.com/s/CDkC72SbdsxCNwjGvGB6ug)

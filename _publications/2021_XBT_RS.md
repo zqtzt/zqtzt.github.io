@@ -1,8 +1,8 @@
 ---
 title: "Examining the Inﬂuence of Recording System on the Pure Temperature Error in XBT Data"
 collection: publications
-category: conferences
-permalink: /publication/2021_XBT_RS_Tan
+category: manuscripts
+permalink: /publication/2021_XBT_RS
 excerpt: 'This paper is about the advance of instrument correction scheme of XBT data'
 date: 2021-04-17
 venue: 'Journal of Atmospheric and Oceanic Technology'
