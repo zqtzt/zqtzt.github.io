@@ -63,9 +63,9 @@ Publications
 
 [3] **Tan Z.**, Reseghetti F*, Abraham J, Cowley R, Chen K, Zhu J, Zhang B, Cheng L*, 2021: Examining the Influence of Recording System on the Pure Temperature Error in XBT Data. *Journal of Atmospheric and Oceanic Technology*, 38, 759-776. 
 
-[4] X. Song**†**, **Z. Tan**†, R. Locarnini, S. Simoncelli, R. Cowley, S.i Kizu, T. Boyer, F. Reseghetti, G. Castelao, V. Gouretski, L. Cheng*, 2024: An open-source algorithm for identification of duplicates in ocean database. *Frontier in Marine Science*. https://doi.org/10.3389/fmars.2024.1403175
+[4] X. Song**†**, **Z. Tan**†, R. Locarnini, S. Simoncelli, R. Cowley, S.i Kizu, T. Boyer, F. Reseghetti, G. Castelao, V. Gouretski, L. Cheng*, 2024: An open-source algorithm for identification of duplicates in ocean database. *Frontier in Marine Science*. 
 
-[5] Cheng, L., Pan, Y., **Tan, Z.**, Zheng, H., Zhu, Y., Wei, W., Du, J., Yuan, H., Li, G., Ye, H., Gouretski, V., Li, Y., Trenberth, K., Abraham, J., Jin, Y., Reseghetti, F., Lin, X., Zhang, B., Chen, G., Mann, M., and Zhu, J., 2024: IAPv4 ocean temperature and ocean heat content gridded dataset, *Earth Syst. Sci. Data*. https://doi.org/10.5194/essd-2024-42. 
+[5] Cheng, L., Pan, Y., **Tan, Z.**, Zheng, H., Zhu, Y., Wei, W., Du, J., Yuan, H., Li, G., Ye, H., Gouretski, V., Li, Y., Trenberth, K., Abraham, J., Jin, Y., Reseghetti, F., Lin, X., Zhang, B., Chen, G., Mann, M., and Zhu, J., 2024: IAPv4 ocean temperature and ocean heat content gridded dataset, *Earth Syst. Sci. Data*.  
 
 [6] Zhang B., L. Cheng*, **Z. Tan**, V. Gouretski, F. Li, Y. Pan, H. Yuan, H. Ren, F. Reseghetti, J. Zhu, and F. Wang*, 2024: CODC-v1: a quality-controlled and bias-corrected ocean temperature profile dataset from 1940-2023. *Scientific Data,* 11(1), 666
 
@@ -75,7 +75,7 @@ Publications
 
 [9] Yuan H., L. Cheng*, Y. Pan, **Z. Tan**, Q. Liu, Z. Jin, 2024: A multi-level parallel approach to increase the computation efficiency of a global ocean temperature dataset reconstruction. *Journal of Parallel and Distributed Computing*, 104938.
 
-[10] Simoncelli, S., Cowley, R., **Tan, Z.**, Killick, R., Castelão, G., Cheng, L., Good, S., Boyer, T., Mills, B., Bhaskar, U., & Locarnini, R. (2024). The International Quality-controlled Ocean Database (IQuOD). Miscellanea INGV, 80, 139–140. https://doi.org/10.13127/MISC/80/50
+[10] Simoncelli, S., Cowley, R., **Tan, Z.**, Killick, R., Castelão, G., Cheng, L., Good, S., Boyer, T., Mills, B., Bhaskar, U., & Locarnini, R. (2024). The International Quality-controlled Ocean Database (IQuOD). Miscellanea INGV, 80, 139–140. 
 
 [11] Liu, Y, L. Cheng, Y. Pan, **Z. Tan**, J. Abraham, B. Zhang, J. Zhu, and J. Song, 2022: How well do CMIP6 and CMIP5 models simulate the climatological seasonal variations of ocean salinity? *Advances in Atmospheric Sciences*
 
@@ -114,7 +114,7 @@ Service and leadership
 
 [As a task team leader of ‘duplicate checking’ to develop an automatic duplicate checking algorithm for ocean profiles with robustness examination. The duplicate checking results have been incorporated into the World Ocean Database (WOD). Participated in the IQuOD steering team meeting (July 2023, Potsdam, Germany). Supervised a master's student for her academic training; A scientific paper is now under review in the *Frontier in Marine Science*]
 
-**[2] Young scholar** of Climind (https://home.climind.co/)
+**[2] Young scholar** of Climind ([https://home.climind.co/](https://home.climind.co/))
 
 [As a young scholar at Climind, involved in a project utilizing AI large language models (LLMs) to accelerate the communication and dissemination of climate knowledge. The role encompassed integrating various climate databases, including textual tokens from IPCC historical reports, to build and evaluate the Climind LLM's robustness and accuracy in handling climate-related queries. Participated in the 9th Youth Geosciences Forum of China (June 2024, Xiamen, China). This initiative aimed to facilitate the dissemination of climate science and support the systematic literature review process for the IPCC report]
 
@@ -124,27 +124,27 @@ Service and leadership
 
 **[1] 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)**
 
-<font color=#008000>[Presentation title: Climind: Accelerating the dissemination of knowledge on addressing climate change risks with large language models (in Chinese)]</font>
+<span style="color:#008000;">[Presentation title: Climind: Accelerating the dissemination of knowledge on addressing climate change risks with large language models (in Chinese)]</span>
 
 **[2] 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)**
 
-<font color=#008000>[Poster title: Global emergence of ocean compound climatic impact-drivers]</font>
+<span style="color:#008000;">[Poster title: Global emergence of ocean compound climatic impact-drivers]</span>
 
 **[3] 07/2023 Berlin, Germany, IUGG 2023 (Oral)**
 
-<font color=#008000>[Presentation title: A new ocean data quality control system reveals a stronger ocean warming rate]</font>
+<span style="color:#008000;">[Presentation title: A new ocean data quality control system reveals a stronger ocean warming rate]</span>
 
 **[4] 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)**
 
-<font color=#008000>[Presentation title: Duplicate checking task team: progress and future work]</font>
+<span style="color:#008000;">[Presentation title: Duplicate checking task team: progress and future work]</span>
 
 **[5] 04/2023 Vienna, Austria, EGU 2023 (Oral)**
 
-<font color=#008000>[Presentation title: Global emergence of compound climatic impact-drivers]</font>
+<span style="color:#008000;">[Presentation title: Global emergence of compound climatic impact-drivers]</span>
 
 **[6] 03/2023 Paris, France. École Normale Supérieure (Invited talk)**
 
-<font color=#008000>[Presentation title: Global emergence of compound climatic impact-drivers reveals a high exposure of marine environment]</font>
+<span style="color:#008000;">[Presentation title: Global emergence of compound climatic impact-drivers reveals a high exposure of marine environment]</span>
 
 **[7] 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)**
 
@@ -152,7 +152,7 @@ Service and leadership
 
 **[9] 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)**
 
-<font color=#008000>[Presentation title: Toward a practical quantification of uncertainty in ocean heat content (OHC) due to data quality control (QC) procedures]</font>
+<span style="color:#008000;">[Presentation title: Toward a practical quantification of uncertainty in ocean heat content (OHC) due to data quality control (QC) procedures]</span>
 
 **[10] 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.**
 
@@ -160,13 +160,13 @@ Service and leadership
 
 **[12] 08/2021 Hohhot, China, The 7th China Science Data (Oral)**
 
-<font color=#008000>[Presentation title: Progress in developing Chinese Academy of Sciences Ocean Data Center (CODC) database (in Chinese)]</font>
+<span style="color:#008000;">[Presentation title: Progress in developing Chinese Academy of Sciences Ocean Data Center (CODC) database (in Chinese)]</span>
 
 **[13] 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)**
 
 **[14] 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)**
 
-<font color=#008000>[Presentation title: Time of emergence: Have the regional long-term ocean warming in the upper 2000m exceeded from the local climate variability? (in Chinese)]</font>
+<span style="color:#008000;">[Presentation title: Time of emergence: Have the regional long-term ocean warming in the upper 2000m exceeded from the local climate variability? (in Chinese)]</span>
 
 **[15] 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics**
 
@@ -176,7 +176,7 @@ Service and leadership
 
 **[18] 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)**
 
-<font color=#008000>[Presentation title: Examining the influence of recording system on the pure temperature bias in XBT data]</font>
+<span style="color:#008000;">[Presentation title: Examining the influence of recording system on the pure temperature bias in XBT data]</span>
 
 **[19] 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)**
 
