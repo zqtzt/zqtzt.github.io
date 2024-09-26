@@ -8,4 +8,4 @@ collection: portfolio
 
 Below is my certificate of this project issued by Climnd:
 
-![climind_certificste](./climind_certificste.png)
+![climind_certificste](../climind_certificste.png)

@@ -15,7 +15,7 @@ A full PDF file of my CV can be found [here](../files/Zhetao-CV-English.pdf)
 
 Education
 ======
-#### **[1] 2019 – 2024   Ph.D.**    **Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS)**
+**[1] 2019 – 2024   Ph.D.**    **Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS)**
 
 ***Research Focus***: physical oceanography, operational oceanography, ocean climate change
 
@@ -23,7 +23,7 @@ Education
 
 ***Supervisors***: Prof. CHENG Lijing; Prof. ZHU Jiang
 
-#### **[2] 2022 – 2023 Visiting Ph.D., Mercator Ocean international, Toulouse, France**
+**[2] 2022 – 2023 Visiting Ph.D., Mercator Ocean international, Toulouse, France**
 
 Collaborated with École Normale Supérieure du Paris, France
 
@@ -31,7 +31,7 @@ Collaborated with École Normale Supérieure du Paris, France
 
 ***Supervisors***: Karina von Schuckmann, Sabrina Speich
 
-#### **[3] 2015 - 2019  B.S.,  Chengdu University of Information Technology, Chengdu, China**
+**[3] 2015 - 2019  B.S.,  Chengdu University of Information Technology, Chengdu, China**
 
 ***Major***: Atmospheric Science  Cumulative GPA: 3.97/5 (top 5%)
 
@@ -124,27 +124,27 @@ Service and leadership
 
 **[1] 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)**
 
-<font color=#008000>[Presentation title: Climind: Accelerating the dissemination of knowledge on addressing climate change risks with large language models (in Chinese)]<font>
+<font color=#008000>[Presentation title: Climind: Accelerating the dissemination of knowledge on addressing climate change risks with large language models (in Chinese)]</font>
 
 **[2] 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)**
 
-<font color=#008000>[Poster title: Global emergence of ocean compound climatic impact-drivers]<font>
+<font color=#008000>[Poster title: Global emergence of ocean compound climatic impact-drivers]</font>
 
 **[3] 07/2023 Berlin, Germany, IUGG 2023 (Oral)**
 
-<font color=#008000>[Presentation title: A new ocean data quality control system reveals a stronger ocean warming rate]<font>
+<font color=#008000>[Presentation title: A new ocean data quality control system reveals a stronger ocean warming rate]</font>
 
 **[4] 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)**
 
-<font color=#008000>[Presentation title: Duplicate checking task team: progress and future work]<font>
+<font color=#008000>[Presentation title: Duplicate checking task team: progress and future work]</font>
 
 **[5] 04/2023 Vienna, Austria, EGU 2023 (Oral)**
 
-<font color=#008000>[Presentation title: Global emergence of compound climatic impact-drivers]<font>
+<font color=#008000>[Presentation title: Global emergence of compound climatic impact-drivers]</font>
 
 **[6] 03/2023 Paris, France. École Normale Supérieure (Invited talk)**
 
-<font color=#008000>[Presentation title: Global emergence of compound climatic impact-drivers reveals a high exposure of marine environment]<font>
+<font color=#008000>[Presentation title: Global emergence of compound climatic impact-drivers reveals a high exposure of marine environment]</font>
 
 **[7] 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)**
 
@@ -152,7 +152,7 @@ Service and leadership
 
 **[9] 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)**
 
-<font color=#008000>[Presentation title: Toward a practical quantification of uncertainty in ocean heat content (OHC) due to data quality control (QC) procedures]<font>
+<font color=#008000>[Presentation title: Toward a practical quantification of uncertainty in ocean heat content (OHC) due to data quality control (QC) procedures]</font>
 
 **[10] 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.**
 
@@ -160,13 +160,13 @@ Service and leadership
 
 **[12] 08/2021 Hohhot, China, The 7th China Science Data (Oral)**
 
-<font color=#008000>[Presentation title: Progress in developing Chinese Academy of Sciences Ocean Data Center (CODC) database (in Chinese)]<font>
+<font color=#008000>[Presentation title: Progress in developing Chinese Academy of Sciences Ocean Data Center (CODC) database (in Chinese)]</font>
 
 **[13] 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)**
 
 **[14] 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)**
 
-<font color=#008000>[Presentation title: Time of emergence: Have the regional long-term ocean warming in the upper 2000m exceeded from the local climate variability? (in Chinese)]<font>
+<font color=#008000>[Presentation title: Time of emergence: Have the regional long-term ocean warming in the upper 2000m exceeded from the local climate variability? (in Chinese)]</font>
 
 **[15] 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics**
 
@@ -176,7 +176,7 @@ Service and leadership
 
 **[18] 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)**
 
-<font color=#008000>[Presentation title: Examining the influence of recording system on the pure temperature bias in XBT data]<font>
+<font color=#008000>[Presentation title: Examining the influence of recording system on the pure temperature bias in XBT data]</font>
 
 **[19] 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)**
 
