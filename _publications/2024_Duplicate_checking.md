@@ -2,7 +2,7 @@
 title: "DC_OCEAN: an open-source algorithm for identiﬁcation of duplicates in ocean databases"
 collection: publications
 category: manuscripts
-permalink: /publication/2024_Duplicate_checking.md
+permalink: /publication/2024_Duplicate_checking
 excerpt: 'This paper is about the duplicate checking of global ocean databases'
 date: 2024-10-02
 venue: 'Frontiers of Marine Sciences'
