@@ -1,5 +1,5 @@
 ---
-title: "PhD dissertation and graduation ceremony: From PhD candidate to PhD"
+title: "[2024-2] PhD dissertation and graduation ceremony: From PhD candidate to PhD"
 excerpt: " I successfully hold a Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences in July 2024<br/><img src='./graduation_ceremony.jpeg'>"
 collection: portfolio
 ---
