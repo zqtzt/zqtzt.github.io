@@ -1,6 +1,6 @@
 ---
 title: "[2024-3] Co-organized a China-Indonesia Bilateral workshop of 'Ocean, Climate and Atmospheric Environment at IAP/CAS"
-excerpt: "Honor to be one of the members of the organizing committee <br/><img src='./COP27-3.jpeg'>"
+excerpt: "Honor to be one of the members of the organizing committee <br/><img src='./workshop.JPG'>"
 collection: portfolio
 ---
 

@@ -15,7 +15,7 @@ A full PDF file of my CV can be found [here](../files/Zhetao-CV-English.pdf)
 
 Education
 ======
-**[1] 2019 – 2024   Ph.D.**    **Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS)**
+<span style="color:#008000;">**[1] 2019 – 2024   Ph.D.**    **Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS)**</span>
 
 ***Research Focus***: physical oceanography, operational oceanography, ocean climate change
 
@@ -23,7 +23,7 @@ Education
 
 ***Supervisors***: Prof. CHENG Lijing; Prof. ZHU Jiang
 
-**[2] 2022 – 2023 Visiting Ph.D., Mercator Ocean international, Toulouse, France**
+<span style="color:#008000;">**[2] 2022 – 2023 Visiting Ph.D., Mercator Ocean international, Toulouse, France** </span>
 
 Collaborated with École Normale Supérieure du Paris, France
 
@@ -31,21 +31,21 @@ Collaborated with École Normale Supérieure du Paris, France
 
 ***Supervisors***: Karina von Schuckmann, Sabrina Speich
 
-**[3] 2015 - 2019  B.S.,  Chengdu University of Information Technology, Chengdu, China**
+<span style="color:#008000;">**[3] 2015 - 2019  B.S.,  Chengdu University of Information Technology, Chengdu, China **</span>
 
 ***Major***: Atmospheric Science  Cumulative GPA: 3.97/5 (top 5%)
 
 Research Interests
 ======
-Ocean compound climate change (climatic impact-drivers; indicators monitor; detection & attribution)
+- Ocean compound climate change (climatic impact-drivers; indicators monitor; detection & attribution)
 
-Ocean observations and ocean data quality improvement (e.g., instrument bias correction; quality control; duplicate checking; XBT science)
+- Ocean observations and ocean data quality improvement (e.g., instrument bias correction; quality control; duplicate checking; XBT science)
 
-Climate risk assessment (hazards, vulnerability, exposure)
+- Climate risk assessment (hazards, vulnerability, exposure)
 
-Mariculture disasters risk reduction
+- Mariculture disasters risk reduction
 
-Large Language Models for climate change
+- Large Language Models for climate change
 
 # **Languages**
 
@@ -54,41 +54,41 @@ English (IELST: 6.5)
 Mandarin and Cantonese (native speaker)
 
 # Publications
-**Total citations: 183, H-index: 7, i-10 index: 6 (Google Scholar, 10/2024)**
+<span style="color:#008000;">**Total citations: 183, H-index: 7, i-10 index: 6 (Google Scholar, 10/2024)**</span>
 
-#### 2024:
+## 2024:
 
-[1] X. Song**†**, **Z. Tan**†, R. Locarnini, S. Simoncelli, R. Cowley, S.i Kizu, T. Boyer, F. Reseghetti, G. Castelao, V. Gouretski, L. Cheng*, 2024: An open-source algorithm for identification of duplicates in ocean database. *Frontier in Marine Science*. 11. <span style="color:#008000;">[co-first author, supervised a MS student]</span>
+[1] X. Song**†**, **<u>Z. Tan</u>**†, R. Locarnini, S. Simoncelli, R. Cowley, S.i Kizu, T. Boyer, F. Reseghetti, G. Castelao, V. Gouretski, L. Cheng*, 2024: An open-source algorithm for identification of duplicates in ocean database. *Frontier in Marine Science*. 11. <span style="color:#008000;">[†: co-first author, supervised a MS student]</span>
 
-[2] Cheng, L., Pan, Y., **Tan, Z.**, Zheng, H., Zhu, Y., Wei, W., Du, J., Yuan, H., Li, G., Ye, H., Gouretski, V., Li, Y., Trenberth, K., Abraham, J., Jin, Y., Reseghetti, F., Lin, X., Zhang, B., Chen, G., Mann, M., and Zhu, J., 2024: IAPv4 ocean temperature and ocean heat content gridded dataset, *Earth Syst. Sci. Data*.  
+[2] Cheng, L., Pan, Y., **<u>Tan, Z.</u>**, Zheng, H., Zhu, Y., Wei, W., Du, J., Yuan, H., Li, G., Ye, H., Gouretski, V., Li, Y., Trenberth, K., Abraham, J., Jin, Y., Reseghetti, F., Lin, X., Zhang, B., Chen, G., Mann, M., and Zhu, J., 2024: IAPv4 ocean temperature and ocean heat content gridded dataset, *Earth Syst. Sci. Data*.  
 
-[3] Zhang B., L. Cheng*, **Z. Tan**, V. Gouretski, F. Li, Y. Pan, H. Yuan, H. Ren, F. Reseghetti, J. Zhu, and F. Wang*, 2024: CODC-v1: a quality-controlled and bias-corrected ocean temperature profile dataset from 1940-2023. *Scientific Data,* 11(1), 666
+[3] Zhang B., L. Cheng, **<u>Z. Tan</u>**, V. Gouretski, F. Li, Y. Pan, H. Yuan, H. Ren, F. Reseghetti, J. Zhu, and F. Wang, 2024: CODC-v1: a quality-controlled and bias-corrected ocean temperature profile dataset from 1940-2023. *Scientific Data,* 11(1), 666
 
-[4] Yuan H., L. Cheng*, Y. Pan, **Z. Tan**, Q. Liu, Z. Jin, 2024: A multi-level parallel approach to increase the computation efficiency of a global ocean temperature dataset reconstruction. *Journal of Parallel and Distributed Computing*, 104938.
+[4] Yuan H., L. Cheng, Y. Pan, <u>**Z. Tan**</u>, Q. Liu, Z. Jin, 2024: A multi-level parallel approach to increase the computation efficiency of a global ocean temperature dataset reconstruction. *Journal of Parallel and Distributed Computing*, 104938.
 
-[5] Viktor Gourteski, Lijing Cheng, Juan Du, Xiaogang Xing, Fei Chai, **Zhetao Tan**. 2024: A consistent ocean oxygen profile dataset with new quality control and bias assessment. *Earth Syst. Sci. Data.* **2024**, 1-27,
+[5] Viktor Gourteski, Lijing Cheng, Juan Du, Xiaogang Xing, Fei Chai, **<u>Zhetao Tan</u>**. 2024: A consistent ocean oxygen profile dataset with new quality control and bias assessment. *Earth Syst. Sci. Data.* **2024**, 1-27,
 
-[6] Cheng* L... **Z. Tan**, ... Y. Lu, 2024: New record ocean temperatures and related climate indicators in 2023, *Advances in Atmospheric Sciences*
+[6] Cheng* L... **<u>Z. Tan</u>**, ... Y. Lu, 2024: New record ocean temperatures and related climate indicators in 2023, *Advances in Atmospheric Sciences*
 
-[7] Simoncelli, S., Cowley, R., **Tan, Z.**, Killick, R., Castelão, G., Cheng, L., Good, S., Boyer, T., Mills, B., Bhaskar, U., & Locarnini, R. (2024). The International Quality-controlled Ocean Database (IQuOD). Miscellanea INGV, 80, 139–140. 
+[7] Simoncelli, S., Cowley, R., **<u>Tan, Z</u>.**, Killick, R., Castelão, G., Cheng, L., Good, S., Boyer, T., Mills, B., Bhaskar, U., & Locarnini, R. (2024). The International Quality-controlled Ocean Database (IQuOD). Miscellanea INGV, 80, 139–140. 
 
-#### 2023:
+## 2023:
 
-[1] **Tan Z.**, Cheng L.*, Gouretski V., Zhang B., Wang Y., Li F., Liu Z., Zhu J., 2023: A new automatic quality control system for ocean *in-situ* temperature observations and impact on ocean warming estimate. *Deep-Sea Research Part I*, 194, 103961
+[1] **<u>Tan Z.</u>**, Cheng L.*, Gouretski V., Zhang B., Wang Y., Li F., Liu Z., Zhu J., 2023: A new automatic quality control system for ocean *in-situ* temperature observations and impact on ocean warming estimate. *Deep-Sea Research Part I*, 194, 103961
 
-#### 2022:
+## 2022:
 
-[1] **Tan, Z.**, B. Zhang, X. Wu, M. Dong, L. Cheng*, 2022: Quality control for ocean observations: From present to future. *Science China-Earth Sciences*, 65(2):215-233 
+[1] **<u>Tan, Z</u>.**, B. Zhang, X. Wu, M. Dong, L. Cheng*, 2022: Quality control for ocean observations: From present to future. *Science China-Earth Sciences*, 65(2):215-233 
 
-[2] Liu, Y, L. Cheng, Y. Pan, **Z. Tan**, J. Abraham, B. Zhang, J. Zhu, and J. Song, 2022: How well do CMIP6 and CMIP5 models simulate the climatological seasonal variations of ocean salinity? *Advances in Atmospheric Sciences*
+[2] Liu, Y, L. Cheng, Y. Pan, **<u>Z. Tan</u>**, J. Abraham, B. Zhang, J. Zhu, and J. Song, 2022: How well do CMIP6 and CMIP5 models simulate the climatological seasonal variations of ocean salinity? *Advances in Atmospheric Sciences*
 
-[3] Cheng, L., J. Abraham, K. E. Trenberth, J. Fasullo, T. Boyer, M. E. Mann, J. Zhu, F. Wang, R. Locarnini, Y. Li, B. Zhang, **Z. Tan**, F. Yu, L. Wan, X. Chen, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, V. Gouretski, G. Chen, A. Mishonov, J. Reagan, 2022: Another record: Ocean warming continues through 2021 Despite La Niña Conditions. *Advances in Atmospheric Sciences*.
+[3] Cheng, L., J. Abraham, K. E. Trenberth, J. Fasullo, T. Boyer, M. E. Mann, J. Zhu, F. Wang, R. Locarnini, Y. Li, B. Zhang, **<u>Z. Tan</u>**, F. Yu, L. Wan, X. Chen, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, V. Gouretski, G. Chen, A. Mishonov, J. Reagan, 2022: Another record: Ocean warming continues through 2021 Despite La Niña Conditions. *Advances in Atmospheric Sciences*.
 
-#### 2021:
+## 2021:
 
-[1] **Tan Z.**, Reseghetti F*, Abraham J, Cowley R, Chen K, Zhu J, Zhang B, Cheng L*, 2021: Examining the Influence of Recording System on the Pure Temperature Error in XBT Data. *Journal of Atmospheric and Oceanic Technology*, 38, 759-776. 
+[1] **<u>Tan Z.</u>**, Reseghetti F*, Abraham J, Cowley R, Chen K, Zhu J, Zhang B, Cheng L*, 2021: Examining the Influence of Recording System on the Pure Temperature Error in XBT Data. *Journal of Atmospheric and Oceanic Technology*, 38, 759-776. 
 
-[2] Zhang B., F. Li, G. Zheng, Y. Wang, **Z. Tan,** X. Li, 2021: Developing big ocean system in support of Sustainable Development Goals: challenges and countermeasures. *Big Earth Data*, 5(4), 557-575.
+[2] Zhang B., F. Li, G. Zheng, Y. Wang, **<u>Z. Tan</u>,** X. Li, 2021: Developing big ocean system in support of Sustainable Development Goals: challenges and countermeasures. *Big Earth Data*, 5(4), 557-575.
 
 
 Patents
