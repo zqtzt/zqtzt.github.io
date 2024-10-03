@@ -23,7 +23,7 @@ Education
 
 ***Supervisors***: Prof. CHENG Lijing; Prof. ZHU Jiang
 
-<span style="color:#008000;">**[2] 2022 – 2023 Visiting Ph.D., Mercator Ocean international, Toulouse, France** </span>
+<span style="color:#008000;">**[2] 2022 – 2023  Visiting Ph.D., Mercator Ocean international, Toulouse, France** </span>
 
 Collaborated with École Normale Supérieure du Paris, France
 
@@ -31,7 +31,7 @@ Collaborated with École Normale Supérieure du Paris, France
 
 ***Supervisors***: Karina von Schuckmann, Sabrina Speich
 
-<span style="color:#008000;">**[3] 2015 - 2019  B.S.,  Chengdu University of Information Technology, Chengdu, China **</span>
+**<span style="color:#008000;">[3] 2015 - 2019  B.S.,  Chengdu University of Information Technology, Chengdu, China </span>** 
 
 ***Major***: Atmospheric Science  Cumulative GPA: 3.97/5 (top 5%)
 
@@ -64,7 +64,7 @@ Mandarin and Cantonese (native speaker)
 
 [3] Zhang B., L. Cheng, **<u>Z. Tan</u>**, V. Gouretski, F. Li, Y. Pan, H. Yuan, H. Ren, F. Reseghetti, J. Zhu, and F. Wang, 2024: CODC-v1: a quality-controlled and bias-corrected ocean temperature profile dataset from 1940-2023. *Scientific Data,* 11(1), 666
 
-[4] Yuan H., L. Cheng, Y. Pan, <u>**Z. Tan**</u>, Q. Liu, Z. Jin, 2024: A multi-level parallel approach to increase the computation efficiency of a global ocean temperature dataset reconstruction. *Journal of Parallel and Distributed Computing*, 104938.
+[4] Yuan H., L. Cheng, Y. Pan, **<u>Z. Tan</u>**, Q. Liu, Z. Jin, 2024: A multi-level parallel approach to increase the computation efficiency of a global ocean temperature dataset reconstruction. *Journal of Parallel and Distributed Computing*, 104938.
 
 [5] Viktor Gourteski, Lijing Cheng, Juan Du, Xiaogang Xing, Fei Chai, **<u>Zhetao Tan</u>**. 2024: A consistent ocean oxygen profile dataset with new quality control and bias assessment. *Earth Syst. Sci. Data.* **2024**, 1-27,
 
@@ -93,7 +93,7 @@ Mandarin and Cantonese (native speaker)
 
 Patents
 ======
-[1] Cheng L., **Z. Tan**, B. Zhang, J. Zhu., 2023. A method and system for quality control ocean profile observations. CN202310234743.4
+[1] Cheng L., **<u>Z. Tan</u>**, B. Zhang, J. Zhu., 2023. A method and system for quality control ocean profile observations. CN202310234743.4
 
 
 **Projects**
