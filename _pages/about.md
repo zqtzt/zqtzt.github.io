@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. in Physical Oceanography, with particularly focus on **ocean observations and data quality improvements, ocean compound climate change, ocean warming monitoring, and compound risk assessment**. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. CHENG Lijing and Prof. ZHU Jiang) in July 2024. 
+I am a Ph.D. in Physical Oceanography, with particularly focus on **ocean observations and data quality improvements, ocean compound climate change, ocean warming monitoring, and compound risk assessment**. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. [CHENG Lijing](https://scholar.google.com/citations?user=XzerSxgAAAAJ&hl=en&oi=ao) and [Prof. ZHU Jiang](http://www.ocean.iap.ac.cn)) in July 2024. 
 
 During my Ph.D. study, I focused on the study of 'climate impact-drivers' which connect physical ocean changes to broader climate impacts. I used ocean climate data to identify the climate ‘hot spot’ regions mostly affected by the compound climate changes and developed frameworks to assess these impacts. 
 
