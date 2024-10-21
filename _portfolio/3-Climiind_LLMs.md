@@ -1,5 +1,5 @@
 ---
-title: "[2024-2] Climate Young scholar at Climind to develop climate large languages models"
+title: "[February 2024] Climate Young scholar at Climind to develop climate large languages models"
 excerpt: "Climate Young scholar at Climind<br/><img src='./climind_certificste.png'>"
 collection: portfolio
 ---

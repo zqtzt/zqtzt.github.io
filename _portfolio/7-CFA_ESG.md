@@ -1,6 +1,6 @@
 ---
-title: "[2023-2] Certificate in CFA-ESG Investment (Environmental, Social, and Governance)"
-excerpt: "I successfully held the Certificate in CFA-ESG investment in August 2023<br/><img src='./CFA-ESG-2.jpeg'>"
+title: "[August 2023] Certificate in CFA-ESG Investment (Environmental, Social, and Governance)"
+excerpt: "I successfully held the Certificate in CFA-ESG investment in August 2023<br/><img src='./CFA_ESG_certifiate.jpg'>"
 collection: portfolio
 ---
 

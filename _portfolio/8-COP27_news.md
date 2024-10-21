@@ -1,5 +1,5 @@
 ---
-title: "Outflow delegation of UNFCCC-COP27"
+title: "[November 2022] Outflow delegation of UNFCCC-COP27"
 excerpt: "As a outflow delegation of China to co-organized a side event on climate extremes at COP27 <br/><img src='./COP27-3.jpeg'>"
 collection: portfolio
 ---

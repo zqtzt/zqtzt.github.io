@@ -1,5 +1,5 @@
 ---
-title: "[2024-4] Ocean Temperatures Helped Make 2023 the Hottest Year Ever Recorded"
+title: "[January 2024] Ocean Temperatures Helped Make 2023 the Hottest Year Ever Recorded"
 excerpt: "New record ocean temperatures and related climate indicators in 2023 <br/><img src='./AAS_2023_1.png'>"
 collection: portfolio
 ---

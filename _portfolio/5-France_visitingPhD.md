@@ -1,5 +1,5 @@
 ---
-title: "[2023-1] Visiting PhD in France: Mercator Ocean international"
+title: "[September 2023] Visiting PhD in France: Mercator Ocean international"
 excerpt: "This is the summary of my overseas studies in France from 2022 to 2023 <br/><img src='./France-1.jpeg'>"
 collection: portfolio
 ---
