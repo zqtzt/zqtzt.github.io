@@ -43,7 +43,7 @@ Research Interests
 
 - Climate risk assessment (hazards, vulnerability, exposure)
 
-- Mariculture disasters risk reduction
+- Mariculture (ocean ranching) disasters risk reduction
 
 - Large Language Models for climate change
 
@@ -54,7 +54,7 @@ English (IELST: 6.5)
 Mandarin and Cantonese (native speaker)
 
 # Publications
-<span style="color:#008000;">**Total citations: 183, H-index: 7, i-10 index: 6 (Google Scholar, 10/2024)**</span>
+<span style="color:#008000;">**Total citations: 210, H-index: 7, i-10 index: 6 (Google Scholar, 11/2024)**</span>
 
 ## 2024:
 
@@ -131,67 +131,71 @@ Service and leadership
 
 # **Presentations/Conferences/Trainings**
 
-**[1] 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)**
+**[1] 10/2024 Haikou, China, The 3rd Impact Climate Innovation Conference (Invitied talk)**
+
+<span style="color:#008000;">[Presentation title #1: Navigating the Path of Climate Change Research: A Step-by-Step Guide (in Chinese); Presentation title #2: Compound cliamte risk assessment and risk reduction of ocean ranching (in Chinese)]</span>
+
+**[2] 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)**
 
 <span style="color:#008000;">[Presentation title: Climind: Accelerating the dissemination of knowledge on addressing climate change risks with large language models (in Chinese)]</span>
 
-**[2] 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)**
+**[3] 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)**
 
 <span style="color:#008000;">[Poster title: Global emergence of ocean compound climatic impact-drivers]</span>
 
-**[3] 07/2023 Berlin, Germany, IUGG 2023 (Oral)**
+**[4] 07/2023 Berlin, Germany, IUGG 2023 (Oral)**
 
 <span style="color:#008000;">[Presentation title: A new ocean data quality control system reveals a stronger ocean warming rate]</span>
 
-**[4] 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)**
+**[5] 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)**
 
 <span style="color:#008000;">[Presentation title: Duplicate checking task team: progress and future work]</span>
 
-**[5] 04/2023 Vienna, Austria, EGU 2023 (Oral)**
+**[6] 04/2023 Vienna, Austria, EGU 2023 (Oral)**
 
 <span style="color:#008000;">[Presentation title: Global emergence of compound climatic impact-drivers]</span>
 
-**[6] 03/2023 Paris, France. École Normale Supérieure (Invited talk)**
+**[7] 03/2023 Paris, France. École Normale Supérieure (Invited talk)**
 
 <span style="color:#008000;">[Presentation title: Global emergence of compound climatic impact-drivers reveals a high exposure of marine environment]</span>
 
-**[7] 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)**
+**[8] 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)**
 
-**[8] 10/2022 Darmstadt, Germany, 2nd Global Climate Observation System (GCOS) meeting (Participant)**
+**[9] 10/2022 Darmstadt, Germany, 2nd Global Climate Observation System (GCOS) meeting (Participant)**
 
-**[9] 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)**
+**[10] 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)**
 
 <span style="color:#008000;">[Presentation title: Toward a practical quantification of uncertainty in ocean heat content (OHC) due to data quality control (QC) procedures]</span>
 
-**[10] 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.**
+**[11] 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.**
 
-**[11] 09/2021 Beijing, China, 1st International Forum on Big Data for Sustainable Development Goals (Volunteer).**
+**[12] 09/2021 Beijing, China, 1st International Forum on Big Data for Sustainable Development Goals (Volunteer).**
 
-**[12] 08/2021 Hohhot, China, The 7th China Science Data (Oral)**
+**[13] 08/2021 Hohhot, China, The 7th China Science Data (Oral)**
 
 <span style="color:#008000;">[Presentation title: Progress in developing Chinese Academy of Sciences Ocean Data Center (CODC) database (in Chinese)]</span>
 
-**[13] 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)**
+**[14] 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)**
 
-**[14] 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)**
+**[15] 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)**
 
 <span style="color:#008000;">[Presentation title: Time of emergence: Have the regional long-term ocean warming in the upper 2000m exceeded from the local climate variability? (in Chinese)]</span>
 
-**[15] 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics**
+**[16] 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics**
 
-**[16] 04/2021 Netherland, 2021 International conference on Marine Data and Information Systems (IMDIS), *online conference* (Participant)**
+**[17] 04/2021 Netherland, 2021 International conference on Marine Data and Information Systems (IMDIS), *online conference* (Participant)**
 
-**[17] 10/2019 Xining, China, The 6th Youth Geosciences Forum (Participant)**
+**[18] 10/2019 Xining, China, The 6th Youth Geosciences Forum (Participant)**
 
-**[18] 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)**
+**[19] 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)**
 
 <span style="color:#008000;">[Presentation title: Examining the influence of recording system on the pure temperature bias in XBT data]</span>
 
-**[19] 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)**
+**[20] 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)**
 
-**[20] 01/2019 Xiamen China, The 4th Xiamen Symposium on Marine Environmental Sciences (Participant)**
+**[21] 01/2019 Xiamen China, The 4th Xiamen Symposium on Marine Environmental Sciences (Participant)**
 
-**[21] 08/2018 Beijing, China, 2018 Third Pole Environment Science & Technology Training: Geology, Geophysics, Ecology and Environmental Change (Participant)**
+**[22] 08/2018 Beijing, China, 2018 Third Pole Environment Science & Technology Training: Geology, Geophysics, Ecology and Environmental Change (Participant)**
 
 # Outreachs
 

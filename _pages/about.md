@@ -24,7 +24,7 @@ You can find my CV [here](./files/Zhetao-CV-English.pdf)
 Publication lists
 ------
 
-<span style="color:#008000;">**Total citations: 183, H-index: 7, i-10 index: 6 (Google Scholar, 10/2024)**</span>
+<span style="color:#008000;">**Total citations: 210, H-index: 7, i-10 index: 6 (Google Scholar, 11/2024)**</span>
 
 ## 2024:
 
