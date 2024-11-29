@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. in Physical Oceanography, with particularly focus on **ocean observations and data quality improvements, ocean compound climate change, ocean warming monitoring, and compound risk assessment**. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. [CHENG Lijing](https://scholar.google.com/citations?user=XzerSxgAAAAJ&hl=en&oi=ao) and [Prof. ZHU Jiang](http://www.ocean.iap.ac.cn)) in July 2024. 
+I am a Ph.D. specializing in Physical Oceanography, Operational Oceanography, and ocean climate change impact, with particularly focus on **ocean observations and data quality improvements, ocean compound climate change, ocean warming monitoring, and compound risk assessment**. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. [CHENG Lijing](https://scholar.google.com/citations?user=XzerSxgAAAAJ&hl=en&oi=ao) and [Prof. ZHU Jiang](http://www.ocean.iap.ac.cn)) in July 2024. 
 
-During my Ph.D. study, I focused on the study of 'climate impact-drivers' which connect physical ocean changes to broader climate impacts. I used ocean climate data to identify the climate ‘hot spot’ regions mostly affected by the compound climate changes and developed frameworks to assess these impacts. 
+During my Ph.D. study, I mainly focused on the study of 'climate impact-drivers' which connect physical ocean changes to broader climate impacts. I used ocean climate data to identify the climate ‘hot spot’ regions mostly affected by the compound climate changes and developed frameworks to assess these impacts. 
 
-Besides, **I am the member of International Quality Controlled Ocean Database (IQuOD).** I am specialized in ocean data processing and analysis, significantly improving the quality of ocean observational data. These efforts included: 1) development of advanced data quality systems by creating open-source tools in the ocean science community for data validation and quality control (e.g., XBT bias correction schemes, data QC system, data duplicate checking etc.). 2) Innovative data analysis techniques such as employed statistical methods to analyze climate data trends and variations (detection & attribution etc.).
+Besides, **I am the member of International Quality Controlled Ocean Database (IQuOD).** I specialize in ocean data processing and analysis, significantly improving the quality of ocean observational data. These efforts included: 1) development of advanced data quality systems by creating open-source tools in the ocean science community for data validation and quality control (e.g., XBT bias correction schemes, data QC system, data duplicate checking etc.). 2) Innovative data analysis techniques such as employed statistical methods to analyze climate data trends and variations (detection & attribution etc.).
 
-At present, I am now seeking a post-doc position specialized in ocean & climate change impact etc.
+At present, I am now seeking a post-doc position specializing in ocean & climate change etc.
 
 You can find my CV [here](./files/Zhetao-CV-English.pdf)
 
@@ -24,7 +24,7 @@ You can find my CV [here](./files/Zhetao-CV-English.pdf)
 Publication lists
 ------
 
-<span style="color:#008000;">**Total citations: 210, H-index: 7, i-10 index: 6 (Google Scholar, 11/2024)**</span>
+<span style="color:#008000;">**Total citations: 230+, H-index: 7, i-10 index: 6 (Google Scholar, 11/2024)**</span>
 
 ## 2024:
 
