@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025_AAS_Cheng
 excerpt: 'This paper is about the sea surface temperatures and deeper water temperatures reached a new record high in 2024'
-date: 2024-08-01
+date: 2025-01-11
 venue: 'Advances in Atmospheric Sciences'
 paperurl: 'https://doi.org/10.1007/s00376-025-4541-3'
 citation: 'Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, Z. Tan, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. Advances in Atmospheric Sciences'
@@ -22,7 +22,7 @@ The ocean is a critical part of the Earth’s climate – most of the excess hea
 
 
 
-![AAS-cheng-1](../AAS-cheng-1.png)
+![AAS-cheng-1](./AAS-cheng-1.png)
 
 <center>The image shows one set of results for the upper 2000 m ocean heat content (Image by the Institute of Atmospheric Physics). Blue and red colors refer, respectively, to whether a particular year was colder or hotter than the 1981-2010 period. This time period is used as a basis for scientists to compare against reference conditions.  Green bars indicate the measurement accuracy. The central message is that the values have been increasing year after year. </center>
 
@@ -56,7 +56,7 @@ The heat in the ocean is the best measurement for monitoring the changing climat
 
 ​	除此之外，海洋表面温度也在破纪录。海洋表面温度指的是海洋与大气接触处的温度，是海气相互作用的关键变量，能够影响较大范围的天气与气候。2024年全球平均海表温度比2023年高0.07℃（大气所数据）、0.05℃（美国海洋和大气管理局数据）、0.06℃（欧洲哥白尼海洋监测中心数据），创造了现代有观测记录以来的新高（图1）。
 
-![AAS-cheng-2](../AAS-cheng-2.png)
+![AAS-cheng-2](./AAS-cheng-2.png)
 
 <center>图1.根据IAP/CAS温度数据产品（1米层）分析的1955年至2024年12月全球平均海表温度变化。蓝色线为年均值，黑色线为月均值。异常值为相对于1981-2010年平均值。左上角内框为海表温度的季节变化。</center>
 
