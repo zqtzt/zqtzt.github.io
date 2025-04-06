@@ -7,24 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. specializing in Physical Oceanography, Operational Oceanography, and ocean climate change impact, with particularly focus on **ocean observations and data quality improvements, ocean compound climate change, ocean warming monitoring, and compound risk assessment**. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. [CHENG Lijing](https://scholar.google.com/citations?user=XzerSxgAAAAJ&hl=en&oi=ao) and [Prof. ZHU Jiang](http://www.ocean.iap.ac.cn)) in July 2024. 
+I am a Ph.D. specializing in Physical Oceanography, Operational Oceanography, and ocean climate change impact, with particularly focus on **ocean observations and data quality improvements, wanter mass and ocean circulation, ocean compound climate change, ocean warming monitoring, and compound risk assessment**. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. [CHENG Lijing](https://scholar.google.com/citations?user=XzerSxgAAAAJ&hl=en&oi=ao) and [Prof. ZHU Jiang](http://www.ocean.iap.ac.cn)) in July 2024. 
 
-During my Ph.D. study, I mainly focused on the study of 'climate impact-drivers' which connect physical ocean changes to broader climate impacts. I used ocean climate data to identify the climate ‘hot spot’ regions mostly affected by the compound climate changes and developed frameworks to assess these impacts. 
+Currently, I am a post-doc investigator at Department of Geosciences (Laboratoire de Météorologie Dynamique), École Normale Supérieure (ENS), Université Paris Sciences et Lettres (PSL) since Feb 2025 (Advisors: Prof. [Sabrina Speich](https://scholar.google.com/citations?user=G0VWQsEAAAAJ&hl=en&oi=ao) and Prof. [Elaine McDonagh](https://scholar.google.com/citations?hl=en&user=MOA44_QAAAAJ&view_op=list_works&citft=1&email_for_op=tanzhetao19%40gmail.com&gmla=ANZ5fUMCfnT0QzegPfpwdSM8RTwmvgcly_vn8BGejH4rmU1Of-MumLFms-ETRhY1xK-ipXE4bAujtWHrnT0gHGX6x-TkNZ7TUvFCiLFUEWAQOK4MSt1sXRkUJ6zLnyMonkEvMv5ipIXvz7IwgQpC9FC-LUb8V0sQIJKnSLeJp8f4zcAxA7nGa3lv36445VhggyYrwLcJ3oDXHybZk9I6EU8X2xpDSXZFkpWaWQuR6K_9nQ1p)), working for Ice sheet impacts on global ocean circulation (WP5) of the OCEAN:ICE project funded by Horizon Europe.
+
+Particularly, I mainly focused on the study of '**climate impact-drivers**' (e.g., temperature, salinity, dissolved oxygen etc.) which connect physical ocean changes to broader climate impacts. I used ocean climate data to identify the climate ‘hot spot’ regions mostly affected by the compound climate changes and developed frameworks to assess these impacts. I also investigated the salinity and freshwater budget of the South Atlantic Ocean, focus on the regional salinity redistribution processes and its link to AOMC under climate change.
 
 Besides, **I am the member of International Quality Controlled Ocean Database (IQuOD).** I specialize in ocean data processing and analysis, significantly improving the quality of ocean observational data. These efforts included: 1) development of advanced data quality systems by creating open-source tools in the ocean science community for data validation and quality control (e.g., XBT bias correction schemes, data QC system, data duplicate checking etc.). 2) Innovative data analysis techniques such as employed statistical methods to analyze climate data trends and variations (detection & attribution etc.).
-
-At present, I am now seeking a post-doc position specializing in ocean & climate change etc.
 
 You can find my CV [here](./files/Zhetao-CV-English.pdf)
 
 中文简历可以在[这里](./files/谭哲韬-学术中文简历.pdf)获取
 
-
-
 Publication lists
 ------
 
-<span style="color:#008000;">**Total citations: 230+, H-index: 7, i-10 index: 6 (Google Scholar, 11/2024)**</span>
+<span style="color:#008000;">**Total citations: 310+, H-index: 8, i-10 index: 8 (Google Scholar, 04/2025)**</span>
+
+## 2025:
+
+[1] Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. Von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, **Z. Tan**, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. *Advances in Atmospheric Sciences*. 
 
 ## 2024:
 
@@ -40,7 +42,9 @@ Publication lists
 
 [6] Cheng L... **Z. Tan**, ... Y. Lu, 2024: New record ocean temperatures and related climate indicators in 2023, *Advances in Atmospheric Sciences*
 
-[7] Simoncelli, S., Cowley, R., **Tan, Z.**, Killick, R., Castelão, G., Cheng, L., Good, S., Boyer, T., Mills, B., Bhaskar, U., & Locarnini, R. (2024). The International Quality-controlled Ocean Database (IQuOD). Miscellanea INGV, 80, 139–140. 
+[7] Yuan H., T. Li, Z. Jin., L. Cheng, **Z. Tan**, B. Zhang, Y. Wang., 2024: CODC-pyParaQC: A design and implementation of parallel quality control for ocean observation big data. 2024 *IEEE International Symposium on Parallel and Distributed Processing with Applications*, 2024, pp. 1863-1870.
+
+[8] Simoncelli, S., Cowley, R., **Tan, Z.**, Killick, R., Castelão, G., Cheng, L., Good, S., Boyer, T., Mills, B., Bhaskar, U., & Locarnini, R. (2024). The International Quality-controlled Ocean Database (IQuOD). Miscellanea INGV, 80, 139–140. 
 
 ## 2023:
 
@@ -63,6 +67,6 @@ Publication lists
 
 Contact Information
 ------
-tanzhetao19@mails.ucas.ac.cn
+[zhetao.tan@lmd.ipsl.fr](zhetao.tan@lmd.ipsl.fr)  or [tanzhetao19@mails.ucas.ac.cn](tanzhetao19@mails.ucas.ac.cn)
 
-Tel: (+86) 134-1381-2907
+Tel: (+33) 699130934 ; (+86) 13413812907

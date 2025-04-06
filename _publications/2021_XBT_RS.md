@@ -16,7 +16,7 @@ Expendable bathythermographs (XBTs) have been widely deployed for ocean monitori
 
 **Citation: **
 
-**Tan Z**.*, Reseghetti F*, Abraham J, Cowley R, Chen K, Zhu J, Zhang B, Cheng L*, 2021: Examining the Influence of Recording System on the Pure Temperature Error in XBT Data. *Journal of Atmospheric and Oceanic Technology*, 38, 759-776. 
+**Tan Z**.*, Reseghetti F*, Abraham J, Cowley R, Chen K, Zhu J, Zhang B, Cheng L, 2021: Examining the Influence of Recording System on the Pure Temperature Error in XBT Data. *Journal of Atmospheric and Oceanic Technology*, 38, 759-776. 
 
 
 
