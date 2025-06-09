@@ -40,7 +40,7 @@ Citation: Song X†, Tan Z†, Locarnini R, Simoncelli S, Cowley R, Kizu S, Boye
 
 简单来说，DC_OCEAN将每一条海洋观测廓线比作一条生物学上的DNA。廓线中的观测数据和元数据信息就像是这条DNA上的不同片段。通过统计方法，可以计算出一个“唯一识别码”，在这个系统中称为“廓线总得分（profile summary score）”。如果两条“DNA”计算出的廓线总得分相近，甚至相同，就说明它们可能是具有重复数据的特征——这就像双胞胎姐妹的DNA大部分是一样的，表明它们有很多共同特征（图1）。
 
-![FMS-1](../FMS-1.png)
+![FMS-1](/images/FMS-1.png)
 
 <center>图1. 重复性检查系统(DC_OCEAN)中计算每一条廓线的廓线总得分（profile summary score）流程图。该系统将每一条海洋观测廓线比作一条具有特定的生物学信息的DNA</center>
 
