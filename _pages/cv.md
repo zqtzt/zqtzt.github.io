@@ -13,8 +13,27 @@ A full PDF file of my CV can be found [here](../files/Zhetao-CV-English.pdf)
 
 中文版详细个人简历请点击[这里](../files/谭哲韬-学术中文简历.pdf)
 
+# Professional Experiences
+
+<span style="color:#008000;">**[1] Feb 2025 – Current, Postdoc Investigator, École Normale Supérieure (ENS), Université Paris Sciences et Lettres (PSL)**</span>
+
+***Postdoc Investigator***, Department of Geosciences (Laboratoire de Météorologie Dynamique), Paris, France
+
+***Advisors***: Prof. Sabrina Speich, Dr. Elaine McDonagh (NORCE, Norway)
+
+***Research Project***: Assessing the salinity and freshwater redistribution in the South Atlantic Ocean (OCEAN:ICE; Horizon Europe project)
+
+<span style="color:#008000;">**[2] Sep 2024 – Jan 2025, Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS) **</span>
+
+***Research Assistant***, Key Laboratory of Earth System Numerical Modeling and Application, Beijing, China
+
+***Advisors***: Prof. Lijing Cheng
+
+***Research Project***: Developing methodologies for new automated salinity quality control algorithms and managing the IAP in-situ observational database.
+
 Education
 ======
+
 <span style="color:#008000;">**[1] 2019 – 2024   Ph.D.**    **Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS)**</span>
 
 ***Research Focus***: physical oceanography, operational oceanography, ocean climate change
@@ -35,24 +54,6 @@ Collaborated with Mercator Ocean international, Toulouse, France
 
 ***Major***: Atmospheric Science  Cumulative GPA: 3.97/5 (top 5%)
 
-# Professional Experiences
-
-<span style="color:#008000;">**[1] Feb 2025 – Current, Postdoc Investigator, École Normale Supérieure (ENS), Université Paris Sciences et Lettres (PSL)**</span>
-
-***Postdoc Investigator***, Department of Geosciences (Laboratoire de Météorologie Dynamique), Paris, France
-
-***Advisors***: Prof. Sabrina Speich, Dr. Elaine McDonagh (NORCE, Norway)
-
-***Research Project***: Assessing the salinity and freshwater redistribution in the South Atlantic Ocean (OCEAN:ICE; Horizon Europe project)
-
-<span style="color:#008000;">**[2] Sep 2024 – Jan 2025, Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS) **</span>
-
-***Research Assistant***, Key Laboratory of Earth System Numerical Modeling and Application, Beijing, China
-
-***Advisors***: Prof. Lijing Cheng
-
-***Research Project***: Developing methodologies for new automated salinity quality control algorithms and managing the IAP in-situ observational database.
-
 Research Interests
 ======
 
@@ -68,15 +69,17 @@ English (IELST: 6.5)
 
 Mandarin and Cantonese (native speaker)
 
-French (débutant; beginner)
+French (A2)
 
 # Publication lists
 
-<span style="color:#008000;">**Total citations: 310+, H-index: 8, i-10 index: 8 (Google Scholar, 04/2025)**</span>
+<span style="color:#008000;">**Total citations: 370+, H-index: 9, i-10 index: 9 (Google Scholar, 06/2025)**</span>
 
 ## 2025:
 
-[1] Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. Von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, **Z. Tan**, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. *Advances in Atmospheric Sciences*. 
+[1] **Tan Z**, Zhu Y, Cheng L, Gouretski V, Pan Y, Yuan H, Wang Z, Li G, Song X, Zhang B, Bao S, Li Y, Zhu J. 2025. CODC-S: A quality-controlled global ocean salinity profiles dataset. *Scientific Data*, 12: 917. https://doi.org/10.1038/s41597-025-05172-9
+
+[2] Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. Von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, **Z. Tan**, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. *Advances in Atmospheric Sciences*. 
 
 ## 2024:
 
@@ -138,7 +141,9 @@ Patents
 
 [1] Constructed and maintained a quality-controlled and bias-corrected ocean profile data (refers as CAS-Ocean Data Center, Global Ocean Science Database or CODC-v1). See product at http://www.ocean.iap.ac.cn/ and https://doi.org/10.1038/s41597-024-03494-8  (Zhang, **Tan** et al., 2024; Scientific Data)
 
-[2] Constructed a benchmark dataset for ocean profiles duplicate checking. See product at http://dx.doi.org/10.12157/IOCAS.20230821.001
+[2]  Constructed and maintained the quality-controlled global ocean salinity profiles dataset (CODC-S). See product at http://www.ocean.iap.ac.cn/ftp/cheng/CODCv2.1_Insitu_T_S_database/ or https://doi.org/10.12157/IOCAS.20241217.001. See paper at https://doi.org/10.1038/s41597-025-05172-9
+
+[3] Constructed a benchmark dataset for ocean profiles duplicate checking. See product at http://dx.doi.org/10.12157/IOCAS.20230821.001
 
 Service and leadership
 ======
@@ -155,75 +160,89 @@ Service and leadership
 
 **[4] Jounral Reviewer:** *Atmospheric and Oceanic Science Letters* (AOSL), *International Journal of Climatology*, *Journal of Operational Oceanography*
 
+# Science Policies
+
+**[1] Global Ocean Temperature and Ocean Heat Content Monitoring funded by the National Marine Environmental Monitoring Center (NMEMC), Technical Contributor (2021-2023)** 
+
+<span style="color:#008000;">[Synthesized current data-processing techniques (bias corrections, data quality control, format unify, mapping etc.) to create lists of comprehensive figures of supporting monthly release reports] </span>
+
+**[2] UNFCCC-COP27 (Egypt), Outflow delegation and coordinator (November 2022)** 
+
+<span style="color:#008000;">[Communicated, collaborated, and coordinated the team and delegated outflows for a side event (Climate Extremes: Prediction and Early Warning) hosted by the Institute of Atmospheric Physics, Chinese Academy of Science at China Pavilion]</span>
+
 # **Presentations/Conferences/Trainings**
 
-**[1] 11/2024 Bologna, Italy, The joint IQuOD/GTSPP/SOOP/XBT meeting (Oral)**
+**[1] 03/2025 Paris, France, COP@CITE simulation , Cité Internationale Universitaire de Paris (Invited speaker)** 
+
+<span style="color:#008000;">[presentation title: Ocean warming and its impacts on marine ecosystems]</span>
+
+**[2] 11/2024 Bologna, Italy, The joint IQuOD/GTSPP/SOOP/XBT meeting (Oral)**
 
 <span style="color:#008000;">[Presentation title: Quality control for historical salinity data and an investigation of potential Argo salinity bias]</span>
 
-**[2] 10/2024 Haikou, China, The 3rd Impact Climate Innovation Conference (Invitied talk)**
+**[3] 10/2024 Haikou, China, The 3rd Impact Climate Innovation Conference (Invitied talk)**
 
-**[3] 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)**
+**[4] 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)**
 
 <span style="color:#008000;">[Presentation title: Climind: Accelerating the dissemination of knowledge on addressing climate change risks with large language models (in Chinese)]</span>
 
-**[4] 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)**
+**[5] 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)**
 
 <span style="color:#008000;">[Poster title: Global emergence of ocean compound climatic impact-drivers]</span>
 
-**[5] 07/2023 Berlin, Germany, IUGG 2023 (Oral)**
+**[6] 07/2023 Berlin, Germany, IUGG 2023 (Oral)**
 
 <span style="color:#008000;">[Presentation title: A new ocean data quality control system reveals a stronger ocean warming rate]</span>
 
-**[6] 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)**
+**[7] 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)**
 
 <span style="color:#008000;">[Presentation title: Duplicate checking task team: progress and future work]</span>
 
-**[7] 04/2023 Vienna, Austria, EGU 2023 (Oral)**
+**[8] 04/2023 Vienna, Austria, EGU 2023 (Oral)**
 
 <span style="color:#008000;">[Presentation title: Global emergence of compound climatic impact-drivers]</span>
 
-**[8] 03/2023 Paris, France. École Normale Supérieure (Invited talk)**
+**[9] 03/2023 Paris, France. École Normale Supérieure (Invited talk)**
 
 <span style="color:#008000;">[Presentation title: Global emergence of compound climatic impact-drivers reveals a high exposure of marine environment]</span>
 
-**[9] 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)**
+**[10] 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)**
 
-**[10] 10/2022 Darmstadt, Germany, 2nd Global Climate Observation System (GCOS) meeting (Participant)**
+**[11] 10/2022 Darmstadt, Germany, 2nd Global Climate Observation System (GCOS) meeting (Participant)**
 
-**[11] 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)**
+**[12] 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)**
 
 <span style="color:#008000;">[Presentation title: Toward a practical quantification of uncertainty in ocean heat content (OHC) due to data quality control (QC) procedures]</span>
 
-**[12] 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.**
+**[13] 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.**
 
-**[13] 09/2021 Beijing, China, 1st International Forum on Big Data for Sustainable Development Goals (Volunteer).**
+**[14] 09/2021 Beijing, China, 1st International Forum on Big Data for Sustainable Development Goals (Volunteer).**
 
-**[14] 08/2021 Hohhot, China, The 7th China Science Data (Oral)**
+**[15] 08/2021 Hohhot, China, The 7th China Science Data (Oral)**
 
 <span style="color:#008000;">[Presentation title: Progress in developing Chinese Academy of Sciences Ocean Data Center (CODC) database (in Chinese)]</span>
 
-**[15] 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)**
+**[16] 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)**
 
-**[16] 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)**
+**[17] 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)**
 
 <span style="color:#008000;">[Presentation title: Time of emergence: Have the regional long-term ocean warming in the upper 2000m exceeded from the local climate variability? (in Chinese)]</span>
 
-**[17] 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics**
+**[18] 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics**
 
-**[18] 04/2021 Netherland, 2021 International conference on Marine Data and Information Systems (IMDIS), *online conference* (Participant)**
+**[19] 04/2021 Netherland, 2021 International conference on Marine Data and Information Systems (IMDIS), *online conference* (Participant)**
 
-**[19] 10/2019 Xining, China, The 6th Youth Geosciences Forum (Participant)**
+**[20] 10/2019 Xining, China, The 6th Youth Geosciences Forum (Participant)**
 
-**[20] 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)**
+**[21] 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)**
 
 <span style="color:#008000;">[Presentation title: Examining the influence of recording system on the pure temperature bias in XBT data]</span>
 
-**[21] 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)**
+**[22] 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)**
 
-**[22] 01/2019 Xiamen China, The 4th Xiamen Symposium on Marine Environmental Sciences (Participant)**
+**[23] 01/2019 Xiamen China, The 4th Xiamen Symposium on Marine Environmental Sciences (Participant)**
 
-**[23] 08/2018 Beijing, China, 2018 Third Pole Environment Science & Technology Training: Geology, Geophysics, Ecology and Environmental Change (Participant)**
+**[24] 08/2018 Beijing, China, 2018 Third Pole Environment Science & Technology Training: Geology, Geophysics, Ecology and Environmental Change (Participant)**
 
 # Outreachs
 

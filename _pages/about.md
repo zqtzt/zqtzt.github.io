@@ -15,18 +15,44 @@ Particularly, I mainly focused on the study of '**climate impact-drivers**' (e.g
 
 Besides, **I am the member of International Quality Controlled Ocean Database (IQuOD).** I specialize in ocean data processing and analysis, significantly improving the quality of ocean observational data. These efforts included: 1) development of advanced data quality systems by creating open-source tools in the ocean science community for data validation and quality control (e.g., XBT bias correction schemes, data QC system, data duplicate checking etc.). 2) Innovative data analysis techniques such as employed statistical methods to analyze climate data trends and variations (detection & attribution etc.).
 
+
+
 You can find my CV [here](./files/Zhetao-CV-English.pdf)
 
 中文简历可以在[这里](./files/谭哲韬-学术中文简历.pdf)获取
 
+
+
+# <span style="color:#058120;">!! News in 2025 !! </span>
+
+### (1) The global in-situ salinity profiles dataset since 1940s was published in *Scientific Data* and is now freely available
+
+This salinity dataset (namely CODC-S) can be freely downloaded via http://www.ocean.iap.ac.cn/ftp/cheng/CODCv2.1_Insitu_T_S_database/ or https://doi.org/10.12157/IOCAS.20241217.001
+
+The second version (v2.1) of the CODC Global Ocean Temperature and Salinity Profile Science Database (CAS- Oceanographic Data Center, Global Ocean Science Database: CODC-v2) was led by the Institute of Atmospheric Physics, Chinese Academy of Sciences, a co-founding institution of the Oceanographic Science Data Center, Chinese Academy of Sciences, in collaboration with the Institute of Oceanology, Chinese Academy of Sciences, the Computer Network Information Center, Chinese Academy of Sciences, and other organizations. The database provides ocean temperature and salinity profile data that have been quality-controlled and bias-corrected. The database covers observational data from 1940 onwards, sourced from 14 types of observation instruments, including XBT, CTD, Argo, gliders, and buoys. It contains 18,472,149 temperature profiles and **11,273,326 salinity profiles** (statistics from January 1940 to November 2024). These salinity profiles are quality-controlled (QC-ed) using **a new automated salinity quality control system named CODC-QC-S** (the CODC Quality Control system – Salinity component), consisting of 11 distinct quality checks.
+
+For efficiently reuse in the community, we also put the CODC temperature (CODC-T) profiles (Zhang et al., 2024) together in the same folder.
+
+I am responsible to maintain and update this dataset. For any question, please do not hesitate to tell me.
+
+**Citation:** Tan Z, Zhu Y, Cheng L*, Gouretski V, Pan Y, Yuan H, Wang Z, Li G, Song X, Zhang B, Bao S, Li Y, Zhu J. 2025. CODC-S: A quality-controlled global ocean salinity profiles dataset. Scientific Data, 12: 917. https://doi.org/10.1038/s41597-025-05172-9
+
+
+
+
+
+
+
 Publication lists
 ------
 
-<span style="color:#008000;">**Total citations: 310+, H-index: 8, i-10 index: 8 (Google Scholar, 04/2025)**</span>
+<span style="color:#008000;">**Total citations: 360+, H-index: 9, i-10 index: 9 (Google Scholar, 06/2025)**</span>
 
 ## 2025:
 
-[1] Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. Von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, **Z. Tan**, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. *Advances in Atmospheric Sciences*. 
+[1] **Tan Z**, Zhu Y, Cheng L, Gouretski V, Pan Y, Yuan H, Wang Z, Li G, Song X, Zhang B, Bao S, Li Y, Zhu J. 2025. CODC-S: A quality-controlled global ocean salinity profiles dataset. Scientific Data, 12: 917. https://doi.org/10.1038/s41597-025-05172-9
+
+[2] Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. Von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, **Z. Tan**, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. *Advances in Atmospheric Sciences*. 
 
 ## 2024:
 
