@@ -12,7 +12,7 @@ citation: 'Song X†, Tan Z†, Locarnini R, Simoncelli S, Cowley R, Kizu S, Boy
 
 A high-quality hydrographic observational database is essential for ocean and climate studies and operational applications. Because there are numerous global and regional ocean databases, duplicate data continues to be an issue in data management, data processing and database merging, posing a challenge on effectively and accurately using oceanographic data to derive robust statistics and reliable data products. This study aims to provide algorithms to identify the duplicates and assign labels to them. **We propose ﬁrst a set of criteria to deﬁne the duplicate data; and second, an open-source and semi-automatic system to detect duplicate data and erroneous metadata.** This system includes several algorithms for automatic checks using statistical methods (such as Principal Component Analysis and entropy weighting) and an additional expert (manual) check. The robustness of the system is then evaluated with a subset of the World Ocean Database (WOD18) with over 600,000 in-situ temperature and salinity proﬁles. **This system is an open-source Python package (named DC_OCEAN) allowing users to effectively use the software.** Users can customize their settings. The application result from the WOD18 subset also forms a benchmark dataset, which is available to support future studies on duplicate checks, metadata error identiﬁcation, and machine learning applications. This duplicate checking system will be incorporated into the International Quality-controlled Ocean Database (IQuOD) data quality control system to guarantee the uniqueness of ocean observation data in this product.
 
-![FMS-2](../FMS-2.png)
+![FMS-2](/images/FMS-2.png)
 
 Figure. Example of some duplicated pairs.
 

@@ -22,7 +22,7 @@ The ocean is a critical part of the Earth’s climate – most of the excess hea
 
 
 
-![AAS-cheng-1](./AAS-cheng-1.png)
+![AAS-cheng-1](/images/AAS-cheng-1.png)
 
 <center>The image shows one set of results for the upper 2000 m ocean heat content (Image by the Institute of Atmospheric Physics). Blue and red colors refer, respectively, to whether a particular year was colder or hotter than the 1981-2010 period. This time period is used as a basis for scientists to compare against reference conditions.  Green bars indicate the measurement accuracy. The central message is that the values have been increasing year after year. </center>
 
