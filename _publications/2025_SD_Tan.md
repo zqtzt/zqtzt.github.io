@@ -16,13 +16,13 @@ Changes in the global ocean salinity reflect the evolution of the global hydrolo
 
 This eight-decade quality-homogeneous salinity profiles dataset can support diverse oceanographic and climatic research such as monitoring water cycle changes and freshwater/overturning transports.
 
-![SD-Tan-1](./SD-Tan-1.png)
+![SD-Tan-1](../SD-Tan-1.png)
 
 <center> Figure. Geographical distribution of all salinity profiles from different instruments in the CODC-S dataset for several decadal periods. </center>
 
 
 
-![SD-Tan-2](./SD-Tan-2.png)
+![SD-Tan-2](../SD-Tan-2.png)
 
 <center> Figure. The reconstructed SSS (left) and 0–2000 m (right) salinity time series before (dashed grey line) and after (solid colored line) QC for Global, Pacific, Atlantic and Indian oceans, separately. The dashed lines represent results before QC (NoQC), and the solid lines show after CODC-QC-S. The anomalies are calculated relative to the 2000–2015 climatology.</center>
 

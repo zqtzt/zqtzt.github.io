@@ -23,7 +23,7 @@ You can find my CV [here](./files/Zhetao-CV-English.pdf)
 
 
 
-# <span style="color:#058120;">!! News in 2025 !! </span>
+# <span style="color:#058120;">!! News in 2025 !! 🐋🐋</span>
 
 ### (1) The global in-situ salinity profiles dataset since 1940s was published in *Scientific Data* and is now freely available
 
