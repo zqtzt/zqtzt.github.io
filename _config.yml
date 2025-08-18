@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. TAN Zhetao"
+title                    : "Dr. Zhetao Tan (谭哲韬)"
 title_separator          : "-"
-name                     : &name "Zheato Tan"
+name                     : &name "Zhetao Tan"
 description              : &description "Ph.D. at Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS)"
 url                      : "https://zqtzt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "https://zqtzt.github.io/"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Zhetao Tan"
+  name             : "Zhetao Tan (谭哲韬)"
   pronouns         : "he/him"  
   bio              : "Ph.D. in Meteorology"
-  location         : "Paris,France"
+  location         : "Paris, France"
   employer         : "Laboratoire de Météorologie Dynamique – IPSL, Ecole Normale Supérieure — PSL"
   uri              : #"https://zqtzt.github.io/zhetaotan.github.io/"
   email            : "zhetao.tan@lmd.ipsl.fr" 

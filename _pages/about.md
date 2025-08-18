@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. specializing in Physical Oceanography, Operational Oceanography, and ocean climate change impact, with particularly focus on **ocean observations and data quality improvements, wanter mass and ocean circulation, ocean compound climate change, ocean warming monitoring, and compound risk assessment**. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. [CHENG Lijing](https://scholar.google.com/citations?user=XzerSxgAAAAJ&hl=en&oi=ao) and [Prof. ZHU Jiang](http://www.ocean.iap.ac.cn)) in July 2024. 
+I am a Ph.D. specializing in Physical Oceanography, Operational Oceanography, and ocean climate change impact, with a particular focus on **ocean observations and data quality improvements, water mass and ocean circulation, ocean compound climate change, ocean warming monitoring, and compound risk assessment**. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. [CHENG Lijing](https://scholar.google.com/citations?user=XzerSxgAAAAJ&hl=en&oi=ao) and [Prof. ZHU Jiang](http://www.ocean.iap.ac.cn)) in July 2024. 
 
 Currently, I am a post-doc investigator at Department of Geosciences (Laboratoire de Météorologie Dynamique), École Normale Supérieure (ENS), Université Paris Sciences et Lettres (PSL) since Feb 2025 (Advisors: Prof. [Sabrina Speich](https://scholar.google.com/citations?user=G0VWQsEAAAAJ&hl=en&oi=ao) and Prof. [Elaine McDonagh](https://scholar.google.com/citations?hl=en&user=MOA44_QAAAAJ&view_op=list_works&citft=1&email_for_op=tanzhetao19%40gmail.com&gmla=ANZ5fUMCfnT0QzegPfpwdSM8RTwmvgcly_vn8BGejH4rmU1Of-MumLFms-ETRhY1xK-ipXE4bAujtWHrnT0gHGX6x-TkNZ7TUvFCiLFUEWAQOK4MSt1sXRkUJ6zLnyMonkEvMv5ipIXvz7IwgQpC9FC-LUb8V0sQIJKnSLeJp8f4zcAxA7nGa3lv36445VhggyYrwLcJ3oDXHybZk9I6EU8X2xpDSXZFkpWaWQuR6K_9nQ1p)), working for Ice sheet impacts on global ocean circulation (WP5) of the OCEAN:ICE project funded by Horizon Europe.
 
@@ -35,18 +35,14 @@ For efficiently reuse in the community, we also put the CODC temperature (CODC-T
 
 I am responsible to maintain and update this dataset. For any question, please do not hesitate to tell me.
 
-**Citation:** Tan Z, Zhu Y, Cheng L*, Gouretski V, Pan Y, Yuan H, Wang Z, Li G, Song X, Zhang B, Bao S, Li Y, Zhu J. 2025. CODC-S: A quality-controlled global ocean salinity profiles dataset. Scientific Data, 12: 917. https://doi.org/10.1038/s41597-025-05172-9
-
-
-
-
+**Citation:** **<u>Tan Z</u>**, Zhu Y, Cheng L*, Gouretski V, Pan Y, Yuan H, Wang Z, Li G, Song X, Zhang B, Bao S, Li Y, Zhu J. 2025. CODC-S: A quality-controlled global ocean salinity profiles dataset. Scientific Data, 12: 917. https://doi.org/10.1038/s41597-025-05172-9
 
 
 
 Publication lists
 ------
 
-<span style="color:#008000;">**Total citations: 360+, H-index: 9, i-10 index: 9 (Google Scholar, 06/2025)**</span>
+<span style="color:#008000;">**Total citations: 435+, H-index: 10, i-10 index: 10 (Google Scholar, 08/2025)**</span>
 
 ## 2025:
 
