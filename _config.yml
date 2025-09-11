@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Zhetao Tan (谭哲韬)"
+title                    : "Zhetao Tan (谭哲韬)"
 title_separator          : "-"
 name                     : &name "Zhetao Tan"
 description              : &description "Ph.D. at Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS)"

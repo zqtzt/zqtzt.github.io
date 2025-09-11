@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Zhetao Tan (谭哲韬) — ENS-PSL"
 author_profile: true
 redirect_from: 
   - /about/
