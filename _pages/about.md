@@ -40,15 +40,17 @@ I am responsible to maintain and update this dataset. For any question, please d
 
 
 Publication lists
-------
+======
 
-<span style="color:#008000;">**Total citations: 435+, H-index: 10, i-10 index: 10 (Google Scholar, 08/2025)**</span>
+<span style="color:#008000;">**Total citations: 470+, H-index: 10, i-10 index: 10 (Google Scholar, 10/2025)**</span>
 
 ## 2025:
 
-[1] **Tan Z**, Zhu Y, Cheng L, Gouretski V, Pan Y, Yuan H, Wang Z, Li G, Song X, Zhang B, Bao S, Li Y, Zhu J. 2025. CODC-S: A quality-controlled global ocean salinity profiles dataset. Scientific Data, 12: 917. https://doi.org/10.1038/s41597-025-05172-9
+[1] **Tan, Z**., K. v. Schuckmann, S. Speich, L. Bopp, J. Zhu, and L. Cheng. (2025): Observed large-scale and deep-reaching compound ocean state changes over the past 60 years. ***Nature Climate Change*** (*accepted*).
 
-[2] Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. Von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, **Z. Tan**, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. *Advances in Atmospheric Sciences*. 
+[2] **Tan Z**, Zhu Y, Cheng L, Gouretski V, Pan Y, Yuan H, Wang Z, Li G, Song X, Zhang B, Bao S, Li Y, Zhu J. 2025. CODC-S: A quality-controlled global ocean salinity profiles dataset. ***Scientific Data***, 12: 917. https://doi.org/10.1038/s41597-025-05172-9
+
+[3] Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. Von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, **Z. Tan**, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. ***Advances in Atmospheric Sciences***. 
 
 ## 2024:
 
