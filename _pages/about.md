@@ -9,11 +9,11 @@ redirect_from:
 
 # <span style="color:#058120;">!! Nov 2025: Updates and Dataset Information</span> <span style="color:#004080;">of a recent publication titled 'Observed large-scale and deep-reaching compound ocean state changes over the past 60 years' in *Nature Climate Change* (Tan et al., 2025) !! 🐋🐋</span>
 
-**🔗** <u>**Tan, Z.**</u>, K. v. Schuckmann, S. Speich, L. Bopp, J. Zhu, and L. Cheng. (2025): Observed large-scale and deep-reaching compound ocean state changes over the past 60 years. Nature Climate Change. [https://www.nature.com/articles/s41558-025-02484-x](https://www.nature.com/articles/s41558-025-02484-x)
+**🔗** Tan, Z., K. v. Schuckmann, S. Speich, L. Bopp, J. Zhu, and L. Cheng. (2025): Observed large-scale and deep-reaching compound ocean state changes over the past 60 years. Nature Climate Change. [https://www.nature.com/articles/s41558-025-02484-x](https://www.nature.com/articles/s41558-025-02484-x)
 
 📚 **Summary**: This paper uses time-of-emergence (ToE) to highlight **<span style="color:#058120;">the increases in impacts of individual and compound changes globally from the surface to the deeper ocean, identifying areas most affected.</span>**
 
-📕 **PDF**: This paper could be downloaded [here](../files/2025-Tan-Compound-NCC).
+📕 **PDF**: This paper could be downloaded [here](../files/2025-Tan-Compound-NCC.pdf).
 
 🎥 **Dashboard**: A dashboard is available [here](http://www.ocean.iap.ac.cn/pages/dataV/dataV.html?navAnchor=dataV) to <span style="color:#058120;">**enable the climate scientists and climate policy-makers**</span> to check the dynamic evolution (since 1985) and current state of the simultaneous change in the global ocean.
 
