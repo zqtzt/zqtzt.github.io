@@ -65,21 +65,29 @@ Research Interests
 
 # **Languages**
 
-English (IELST: 6.5)
-
 Mandarin and Cantonese (native speaker)
 
-French (A2)
+English (Fluent)
+
+French (B1)
 
 # Publication lists
 
-<span style="color:#008000;">**Total citations: 370+, H-index: 9, i-10 index: 9 (Google Scholar, 06/2025)**</span>
+<span style="color:#008000;">**Total citations: 570+, H-index: 10, i-10 index: 10 (Google Scholar, 01/2026)**</span>
+
+## 2026:
+
+[1] Liu Xu, Licheng Feng, Lijing Cheng, **Zhetao Tan**, Cuijuan Sui, Chunyang Song (2026): Spatiotemporal Changes of Ocean Heat Content in the Seas around China. *Advances in Atmospheric Sciences.* 1-19 
+
+[2] Yuying Pan, Lijing Cheng, John Abraham, Kevin Trenberth…., **Zhetao Tan**,…. Miao Zhang, Lin Chen (2026): The Ocean Heat Content Sets New Records in 2025 Signals Accelerated Climate Warming. *Advances in Atmospheric Sciences.* 1-23
 
 ## 2025:
 
-[1] **Tan Z**, Zhu Y, Cheng L, Gouretski V, Pan Y, Yuan H, Wang Z, Li G, Song X, Zhang B, Bao S, Li Y, Zhu J. 2025. CODC-S: A quality-controlled global ocean salinity profiles dataset. *Scientific Data*, 12: 917. https://doi.org/10.1038/s41597-025-05172-9
+[1] **Tan, Z.**, K. v. Schuckmann, S. Speich, L. Bopp, J. Zhu, and L. Cheng. (2025): Observed large-scale and deep-reaching compound ocean state changes over the past 60 years. *Nature Climate Change*. 1-11. https://doi.org/10.1038/s41558-025-02484-x <span style="color:#008000;">[Altmetric scores: 180+]</span>
 
-[2] Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. Von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, **Z. Tan**, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. *Advances in Atmospheric Sciences*. 
+[2] **Tan Z**, Zhu Y, Cheng L, Gouretski V, Pan Y, Yuan H, Wang Z, Li G, Song X, Zhang B, Bao S, Li Y, Zhu J. 2025. CODC-S: A quality-controlled global ocean salinity profiles dataset. *Scientific Data*, 12: 917. https://doi.org/10.1038/s41597-025-05172-9
+
+[3] Cheng L. J. Abraham, K. E. Trenberth, J. Reagan, H.-M. Zhang, A. Storto, K. Von Schuckmann, Y. Pan, Y. Zhu, M. E. Mann, J. Zhu, F. Wang, F. Yu, R. Locarnini, J. Fasullo, B. Huang, G. Graham, X. Yin, V. Gouretski, F. Zheng, Y. Li, B. Zhang, L. Wan, X. Chen, D. Wang, L. Feng, X. Song, Y. Liu, F. Reseghetti, S. Simoncelli, G. Chen, R. Zhang, A. Mishonov, **Z. Tan**, W. Wei, H. Yuan, G. Li, Q. Ren, L. Cao, Y. Lu, J. Du, K. Lyu, A. Sulaiman, M. Mayer, H. Wang, Z. Ma, S. Bao, H. Yan, Z. Liu, C. Yang, X. Liu, Z. Hausfather, T. Szekely, F. Gues: 2025: Record High Temperatures in the Ocean in 2024. *Advances in Atmospheric Sciences*. 
 
 ## 2024:
 
@@ -125,17 +133,17 @@ Patents
 
 **Projects**
 ======
-**[1]** **Strategic Priority Research Program of the Chinese Academy of Sciences (XDB42040402). 1,500,000 RMB.** **Primary** **Contributors** (PI: Lijing Cheng, Jiang Zhu)
+**[1] Feb 2025 – Current** Ice sheet impacts on global ocean circulation (WP5), Ocean-Cryosphere Exchanges in ANtarctica: Impacts on Climate and the Earth System (OCEAN:ICE), Horizon Europe project. **Lead Investigator** (PI: Sabrina Speich)
+
+**[2]** **November 2025 – November 2027**. Integrated Research on Disaster Risk (IRDR), International Science Council, International Young Scientists Program Project. **Principal Investigator** 
+
+**[3]** **Strategic Priority Research Program of the Chinese Academy of Sciences (XDB42040402). 1,500,000 RMB.** **Primary** **Contributors** (PI: Lijing Cheng, Jiang Zhu)
 
 [Developed an ocean data quality control system (CODC-QC) and a duplicate checking system (DC_OCEAN), and improved XBT bias correction methods for reconstructing climate grid products. Constructed a monthly update and maintained global ocean *in-situ* science database (CODCv1). Variables include temperature, salinity, and dissolved oxygen]
 
-**[2]** **National Natural Science Foundation of China: “Ocean and Climate Change” (42122046). 2,000,000 RMB.** **Primary** **Contributors** (PI: Lijing Cheng) 
+**[4]** **National Natural Science Foundation of China: “Ocean and Climate Change” (42122046). 2,000,000 RMB.** **Primary** **Contributors** (PI: Lijing Cheng) 
 
 [Understood the spatial-temporal pattern and the long-term exposure of the ocean compound climate change represented by different climatic drivers; Improved the CODC-QC performance, and quantified the uncertainty in OHC estimate induced by QC]
-
-**[3]** **National Key Technology R&D Program: “Reconstruction of key ocean variables” (2017YFA0603200). 4,770,000 RMB.** **Contributors** (PI: Lijing Cheng)
-
-[Developed an updated XBT bias correction scheme to reduce the global XBT bias for IAP temperature gridded product development]
 
 # Data products
 
@@ -148,17 +156,21 @@ Patents
 Service and leadership
 ======
 
-**[1] Member** of International Quality Controlled Ocean Database (IQuOD)
+**[1]** November 2025 – Current. **Member** of United Nations Integrated Research on Disaster Risk (IRDR) Young Scientists Programme (YSP)
 
-[As a task team leader of ‘duplicate checking’ to develop an automatic duplicate checking algorithm for ocean profiles with robustness examination. The duplicate checking results have been incorporated into the World Ocean Database (WOD). Participated in the IQuOD steering team meeting (July 2023, Potsdam, Germany). Supervised a master's student for her academic training; A scientific paper is now under review in the *Frontier in Marine Science*]
+**[2] Member** of International Quality Controlled Ocean Database (IQuOD)
 
-**[2] Young scholar** of Climind ([https://home.climind.co/](https://home.climind.co/))
+**[3]** March 2025 – Current. **Member** of XBT Data Management Team (XBT-DM) under the framework of the Ship Of Opportunity Programme (SOOP)
 
-[As a young scholar at Climind, involved in a project utilizing AI large language models (LLMs) to accelerate the communication and dissemination of climate knowledge. The role encompassed integrating various climate databases, including textual tokens from IPCC historical reports, to build and evaluate the Climind LLM's robustness and accuracy in handling climate-related queries. Participated in the 9th Youth Geosciences Forum of China (June 2024, Xiamen, China). This initiative aimed to facilitate the dissemination of climate science and support the systematic literature review process for the IPCC report]
+**[4] Young scholar** of Climind ([https://home.climind.co/](https://home.climind.co/))
 
-**[3] Ocean expert** of the International Oceanographic Data and Information Exchange (IODE) of the Intergovernmental Oceanographic Commission (IOC)
+**[5] Ocean expert** of the International Oceanographic Data and Information Exchange (IODE) of the Intergovernmental Oceanographic Commission (IOC)
 
-**[4] Jounral Reviewer:** *Atmospheric and Oceanic Science Letters* (AOSL), *International Journal of Climatology*, *Journal of Operational Oceanography*
+**[6] Jounral Reviewer:** Journal of Geophysical Research: Oceans (JGR-oceans), *Frontiers in Marine Sciences* (FMS), *Atmospheric and Oceanic Science Letters* (AOSL), *International Journal of Climatology (IJC)*, *Journal of Operational Oceanograph*
+
+**[7]** **Session Convener** of 2026 AGU Ocean Science Meeting (Glasgow, Scotland): Changing Ocean Physical Conditions in a Warming Climate (session primary chair).
+
+**[8] Expert Reviewer** on Special Report on Climate Change and Cities of IPCC Seventh Assessment Cycle (AR7) 
 
 # Science Policies
 
@@ -172,77 +184,101 @@ Service and leadership
 
 # **Presentations/Conferences/Trainings**
 
-**[1] 03/2025 Paris, France, COP@CITE simulation , Cité Internationale Universitaire de Paris (Invited speaker)** 
+**[1] 02/2026 Glasgow, UK.** **Ocean Science Meeting 2026 (Oral)**
+
+<span style="color:#008000;">[Presentation tile: Changing Properties of South Atlantic Upper-Ocean Water Masses During the Past 45 Years]</span>
+
+**[2] 12/2025 Nanjing, China. Nanjing University (Oral)**
+
+<span style="color:#008000;">[Presentation tile: The ocean is changing faster than we initially thought in a warming climate]</span>
+
+**[3] 10/2025 OCEAN:ICE WP5 webinar (Ice sheet Meltwater & Global Ocean Circulation), European Polar Board, \*online webinar\* (Invited talk)**
+
+<span style="color:#008000;">[Presentation title: New observations on water mass properties changes in the South Atlantic]</span>
+
+**[4] 09/2025 Bergen, Norway, Bjerknes Centre for Climate Research (BCCR) seminar (Invited speaker)**
+
+<span style="color:#008000;">[Presentation title: Data-driven science: From Global Compound Ocean State Change to South Atlantic Water Masses Responses]</span>
+
+**[5] 09/2025 Bergen, Norway, Bjerknes 2025 Annual Meeting (poster)**
+
+<span style="color:#008000;">[Poster title: Observed large-scale and deep-reaching compound ocean state changes in a warming climate]</span>
+
+**[6] 09/2025 Copenhagen, Denmark, OCEAN:ICE Annual Meeting (Oral)**
+
+<span style="color:#008000;">[Presentation title: Water properties changes over the past 40 years in the South Atlantic]</span>
+
+**[7] 03/2025 Paris, France, COP@CITE simulation , Cité Internationale Universitaire de Paris (Invited speaker)** 
 
 <span style="color:#008000;">[presentation title: Ocean warming and its impacts on marine ecosystems]</span>
 
-**[2] 11/2024 Bologna, Italy, The joint IQuOD/GTSPP/SOOP/XBT meeting (Oral)**
+**[8] 11/2024 Bologna, Italy, The joint IQuOD/GTSPP/SOOP/XBT meeting (Oral)**
 
 <span style="color:#008000;">[Presentation title: Quality control for historical salinity data and an investigation of potential Argo salinity bias]</span>
 
-**[3] 10/2024 Haikou, China, The 3rd Impact Climate Innovation Conference (Invitied talk)**
+**[9] 10/2024 Haikou, China, The 3rd Impact Climate Innovation Conference (Invitied talk)**
 
-**[4] 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)**
+**[10] 06/2024 Xiamen, China, The 9th Youth Geosciences Forum of China (Oral)**
 
 <span style="color:#008000;">[Presentation title: Climind: Accelerating the dissemination of knowledge on addressing climate change risks with large language models (in Chinese)]</span>
 
-**[5] 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)**
+**[11] 02/2024 New Orleans, USA, Ocean Science Meeting 2024 (Poster)**
 
 <span style="color:#008000;">[Poster title: Global emergence of ocean compound climatic impact-drivers]</span>
 
-**[6] 07/2023 Berlin, Germany, IUGG 2023 (Oral)**
+**[12] 07/2023 Berlin, Germany, IUGG 2023 (Oral)**
 
 <span style="color:#008000;">[Presentation title: A new ocean data quality control system reveals a stronger ocean warming rate]</span>
 
-**[7] 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)**
+**[13] 07/2023 Potsdam, Germany, International Quality-Controlled Ocean Database (IQuOD) steering team meeting (Task team leader)**
 
 <span style="color:#008000;">[Presentation title: Duplicate checking task team: progress and future work]</span>
 
-**[8] 04/2023 Vienna, Austria, EGU 2023 (Oral)**
+**[14] 04/2023 Vienna, Austria, EGU 2023 (Oral)**
 
 <span style="color:#008000;">[Presentation title: Global emergence of compound climatic impact-drivers]</span>
 
-**[9] 03/2023 Paris, France. École Normale Supérieure (Invited talk)**
+**[15] 03/2023 Paris, France. École Normale Supérieure (Invited talk)**
 
 <span style="color:#008000;">[Presentation title: Global emergence of compound climatic impact-drivers reveals a high exposure of marine environment]</span>
 
-**[10] 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)**
+**[16] 11/2022 Sharm El Sheikh, Egypt, UNFCCC-COP27 (Outflow delegation)**
 
-**[11] 10/2022 Darmstadt, Germany, 2nd Global Climate Observation System (GCOS) meeting (Participant)**
+**[17] 10/2022 Darmstadt, Germany, 2nd Global Climate Observation System (GCOS) meeting (Participant)**
 
-**[12] 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)**
+**[18] 02/2022 Hawaii, USA, Ocean Sciences Meeting 2022, online conference (Oral)**
 
 <span style="color:#008000;">[Presentation title: Toward a practical quantification of uncertainty in ocean heat content (OHC) due to data quality control (QC) procedures]</span>
 
-**[13] 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.**
+**[19] 11/2021 Guangzhou, China, The 13th Physical Oceanography Training on "Oceans, Climate and Environmental Change" hosted by the State Key Laboratory of Tropical Marine Environment.**
 
-**[14] 09/2021 Beijing, China, 1st International Forum on Big Data for Sustainable Development Goals (Volunteer).**
+**[20] 09/2021 Beijing, China, 1st International Forum on Big Data for Sustainable Development Goals (Volunteer).**
 
-**[15] 08/2021 Hohhot, China, The 7th China Science Data (Oral)**
+**[21] 08/2021 Hohhot, China, The 7th China Science Data (Oral)**
 
 <span style="color:#008000;">[Presentation title: Progress in developing Chinese Academy of Sciences Ocean Data Center (CODC) database (in Chinese)]</span>
 
-**[16] 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)**
+**[22] 08/2021 Singapore, 18th annual meeting of Asia Oceania Geosciences Society, *online conference* (Poster)**
 
-**[17] 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)**
+**[23] 07/2021 Guiyang, China, The 7th Youth Geosciences Forum (Oral)**
 
 <span style="color:#008000;">[Presentation title: Time of emergence: Have the regional long-term ocean warming in the upper 2000m exceeded from the local climate variability? (in Chinese)]</span>
 
-**[18] 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics**
+**[24] 02/2021-05/2021 Jinan, China, Training on Climate Change Economics host by Shandong University of Finance and Economics**
 
-**[19] 04/2021 Netherland, 2021 International conference on Marine Data and Information Systems (IMDIS), *online conference* (Participant)**
+**[25] 04/2021 Netherland, 2021 International conference on Marine Data and Information Systems (IMDIS), *online conference* (Participant)**
 
-**[20] 10/2019 Xining, China, The 6th Youth Geosciences Forum (Participant)**
+**[26] 10/2019 Xining, China, The 6th Youth Geosciences Forum (Participant)**
 
-**[21] 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)**
+**[27] 09/2019 Beijing, China, 2019 Committee on Data (CODATA) Conference: Towards Next-Generation Data-driven Science (Oral)**
 
 <span style="color:#008000;">[Presentation title: Examining the influence of recording system on the pure temperature bias in XBT data]</span>
 
-**[22] 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)**
+**[28] 06/2019 Chengdu, China, 2019 Community Satellite Processing Package Users’ Group Meeting (Volunteer)**
 
-**[23] 01/2019 Xiamen China, The 4th Xiamen Symposium on Marine Environmental Sciences (Participant)**
+**[29] 01/2019 Xiamen China, The 4th Xiamen Symposium on Marine Environmental Sciences (Participant)**
 
-**[24] 08/2018 Beijing, China, 2018 Third Pole Environment Science & Technology Training: Geology, Geophysics, Ecology and Environmental Change (Participant)**
+**[30] 08/2018 Beijing, China, 2018 Third Pole Environment Science & Technology Training: Geology, Geophysics, Ecology and Environmental Change (Participant)**
 
 # Outreachs
 
@@ -250,8 +286,12 @@ Service and leadership
 
 [2] Science outreach article “Conducting a ‘Health Check’ for the Ocean ” in Chinese social media. (07/2022)
 
-"科学大院"微信公众号：[《这可能是人类有史以来最大型的体检项目……》]([https://mp.weixin.qq.com/s/7ZhGeQk0P9nMqoLzbXTFbA)
+"科学大院"微信公众号：[《这可能是人类有史以来最大型的体检项目……》](https://mp.weixin.qq.com/s/7ZhGeQk0P9nMqoLzbXTFbA)
 
 [3] Science outreach article ‘Global Ocean Warming Breaks Record in 2023: how do we understanding this phenomenon? (2023年：全球海洋变暖“破纪录”，我们该如何理解这一现象)’ in the official social media of Chinese Academy of Science (in Chinese) (01/2024)
 
 "中科院之声"微信公众号：[《2023年，是海洋最热的一年！我们该怎么理解？》](https://mp.weixin.qq.com/s/CDkC72SbdsxCNwjGvGB6ug)
+
+[4] Science popularization article “Beyond warming: the ocean is under compound stress. Is a mass extinction scenario unfolding? (海洋不仅在“发烧”，还得了“三高”！生物大灭绝的剧本正在上演？” in Chinese social media. (12/2025)
+
+"科学大院"微信公众号：[《海洋不仅在“发烧”，还得了“三高”！生物大灭绝的剧本正在上演？》](https://mp.weixin.qq.com/s/LzBPyWzklEqPha4zGircOw)

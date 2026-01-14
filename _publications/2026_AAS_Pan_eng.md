@@ -3,7 +3,7 @@ title: "[2026] AAS: Ocean Heat Content Sets Another Record in 2025"
 collection: publications
 category: manuscripts
 permalink: /publication/2026_AAS_Pan_eng
-excerpt: 'In 2025, the Earth's oceans stored more heat than ever before — about 23 Zetta Joules (ZJ). That's enough energy for an electric car to circle the Earth's equator a trillion times, or the equivalent of 1.8 × 10¹⁶ hamburgers!'
+excerpt: 'In 2025, the Earth's oceans stored more heat than ever before — about 23 Zetta Joules (ZJ).'
 date: 2026-01-09
 venue: 'Advances in Atmospheric Sciences'
 paperurl: 'https://doi.org/10.1007/s00376-026-5876-0'
@@ -24,7 +24,7 @@ Global annual mean sea-surface temperature (SST) in 2025 was the third warmest y
 
 
 
-![AAS-Pan-2](/images/AAS-Pan-1.png)
+![AAS-Pan-1](/images/AAS-Pan-1.png)
 
 <center> Figure. Global ocean heat content changes for the upper 2000 meters of ocean waters since 1958. (Image by Pan et al.). </center>
 

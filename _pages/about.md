@@ -70,7 +70,13 @@ You can find my CV [here](./files/Zhetao-CV-English.pdf)
 Publication lists
 ======
 
-<span style="color:#008000;">**Total citations: 470+, H-index: 10, i-10 index: 10 (Google Scholar, 10/2025)**</span>
+<span style="color:#008000;">**Total citations: 570+, H-index: 10, i-10 index: 10 (Google Scholar, 01/2026)**</span>
+
+## 2026:
+
+[1] Liu Xu, Licheng Feng, Lijing Cheng, **Zhetao Tan**, Cuijuan Sui, Chunyang Song (2026): Spatiotemporal Changes of Ocean Heat Content in the Seas around China. *Advances in Atmospheric Sciences.* 1-19 
+
+[2] Yuying Pan, Lijing Cheng, John Abraham, Kevin Trenberth…., **Zhetao Tan**,…. Miao Zhang, Lin Chen (2026): The Ocean Heat Content Sets New Records in 2025 Signals Accelerated Climate Warming. *Advances in Atmospheric Sciences.* 1-23
 
 ## 2025:
 
