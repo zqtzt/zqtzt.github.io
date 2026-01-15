@@ -33,7 +33,7 @@ redirect_from:
 
 
 
-# <span style="color:#058120;">Introduction 🐋</span>
+# <span style="color:#058120;">About Me 🐋</span>
 
 I am a Ph.D. specializing in Physical Oceanography, Operational Oceanography, and ocean climate change impact, with a particular focus on **ocean observations and data quality improvements, water mass and ocean circulation, ocean compound climate change, ocean warming monitoring, and compound risk assessment**. I hold my Ph.D from the Institute of Atmospheric Physics, Chinese Academy of Sciences (Supervisors: Prof. [CHENG Lijing](https://scholar.google.com/citations?user=XzerSxgAAAAJ&hl=en&oi=ao) and [Prof. ZHU Jiang](http://www.ocean.iap.ac.cn)) in July 2024. 
 
@@ -42,6 +42,12 @@ Currently, I am a post-doc investigator at Department of Geosciences (Laboratoir
 Particularly, I mainly focused on the study of '**climate impact-drivers**' (e.g., temperature, salinity, dissolved oxygen etc.) which connect physical ocean changes to broader climate impacts. I used ocean climate data to identify the climate ‘hot spot’ regions mostly affected by the compound climate changes and developed frameworks to assess these impacts. I also investigated the salinity and freshwater budget of the South Atlantic Ocean, focus on the regional salinity redistribution processes and its link to AOMC under climate change.
 
 Besides, **I am the member of International Quality Controlled Ocean Database (IQuOD).** I specialize in ocean data processing and analysis, significantly improving the quality of ocean observational data. These efforts included: 1) development of advanced data quality systems by creating open-source tools in the ocean science community for data validation and quality control (e.g., XBT bias correction schemes, data QC system, data duplicate checking etc.). 2) Innovative data analysis techniques such as employed statistical methods to analyze climate data trends and variations (detection & attribution etc.).
+
+# <span style="color:#058120;">Research Interests </span>
+
+![research_interest](../images/research_interest.png)
+
+
 
 
 
