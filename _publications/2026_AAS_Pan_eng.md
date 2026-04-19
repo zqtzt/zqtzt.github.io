@@ -1,8 +1,8 @@
 ---
-title: "[2026] AAS: Ocean Heat Content Sets Another Record in 2025"
+title: "AAS: Ocean Heat Content Sets Another Record in 2025"
 collection: publications
 category: manuscripts
-permalink: /_publications/2026_AAS_Pan_eng
+permalink: /publication/2026_AAS_Pan_eng
 excerpt: 'In 2025, the Earth's oceans stored more heat than ever before — about 23 Zetta Joules (ZJ).'
 date: 2026-01-09
 venue: 'Advances in Atmospheric Sciences'
