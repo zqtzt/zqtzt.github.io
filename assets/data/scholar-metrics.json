@@ -1,0 +1,13 @@
+{
+  "status": "pending",
+  "source": "Google Scholar",
+  "profile_id": "Bha1c94AAAAJ",
+  "profile_url": "https://scholar.google.com/citations?user=Bha1c94AAAAJ&hl=en",
+  "updated_at": null,
+  "metrics": {
+    "citations": null,
+    "h_index": null,
+    "i10_index": null
+  },
+  "message": "Metrics will be updated automatically every 3 days by GitHub Actions."
+}

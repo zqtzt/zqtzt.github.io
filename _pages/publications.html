@@ -5,32 +5,113 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+<div class="publication-observatory">
+  {% if site.author.googlescholar %}
+    <div class="publication-observatory__intro" data-scholar-metrics data-metrics-url="{{ base_path }}/assets/data/scholar-metrics.json">
+      <div class="publication-observatory__intro-copy">
+        <p class="observatory-kicker">Publication record</p>
+        <p>You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
+        <p class="scholar-metrics__updated">Scholar metrics: <span data-scholar-updated>waiting for the first automatic update</span></p>
+      </div>
+      <div class="scholar-metrics" aria-label="Google Scholar metrics">
+        <div class="scholar-metrics__item">
+          <span data-scholar-value="citations">--</span>
+          <small>Citations</small>
+        </div>
+        <div class="scholar-metrics__item">
+          <span data-scholar-value="h_index">--</span>
+          <small>h-index</small>
+        </div>
+        <div class="scholar-metrics__item">
+          <span data-scholar-value="i10_index">--</span>
+          <small>i10-index</small>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+
+  {% if site.publication_category %}
+    {% for category in site.publication_category  %}
+      {% assign title_shown = false %}
+      {% for post in site.publications reversed %}
+        {% if post.category != category[0] %}
+          {% continue %}
+        {% endif %}
+        {% unless title_shown %}
+          <section class="publication-section" aria-labelledby="publication-{{ category[0] }}">
+            <div class="publication-section__head">
+              <h2 id="publication-{{ category[0] }}">{{ category[1].title }}</h2>
+            </div>
+            <div class="publication-card-grid">
+          {% assign title_shown = true %}
+        {% endunless %}
+        {% include publication-card.html publication=post %}
+      {% endfor %}
+      {% if title_shown %}
+            </div>
+          </section>
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% else %}
+    <section class="publication-section" aria-labelledby="publication-all">
+      <div class="publication-section__head">
+        <h2 id="publication-all">Journal Articles</h2>
+      </div>
+      <div class="publication-card-grid">
+        {% for post in site.publications reversed %}
+          {% include publication-card.html publication=post %}
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
+</div>
 
+<script>
+  (function () {
+    var root = document.querySelector("[data-scholar-metrics]");
+    if (!root || !root.dataset.metricsUrl) return;
 
+    function formatNumber(value) {
+      if (typeof value !== "number") return "--";
+      return value.toLocaleString("en-US");
+    }
 
+    function formatDate(value) {
+      if (!value) return "waiting for the first automatic update";
+      var date = new Date(value);
+      if (Number.isNaN(date.getTime())) return "updated automatically every 3 days";
+      return "last updated " + date.toLocaleDateString("en-US", {
+        year: "numeric",
+        month: "short",
+        day: "numeric"
+      });
+    }
+
+    fetch(root.dataset.metricsUrl, { cache: "no-store" })
+      .then(function (response) {
+        if (!response.ok) throw new Error("metrics unavailable");
+        return response.json();
+      })
+      .then(function (data) {
+        var metrics = data.metrics || {};
+        ["citations", "h_index", "i10_index"].forEach(function (key) {
+          var node = root.querySelector('[data-scholar-value="' + key + '"]');
+          if (node) node.textContent = formatNumber(metrics[key]);
+        });
+
+        var updated = root.querySelector("[data-scholar-updated]");
+        if (updated) {
+          updated.textContent = formatDate(data.updated_at);
+          if (data.status && data.status !== "ok" && data.message) {
+            updated.textContent += " (" + data.status + ")";
+          }
+        }
+      })
+      .catch(function () {
+        var updated = root.querySelector("[data-scholar-updated]");
+        if (updated) updated.textContent = "metrics cache unavailable";
+      });
+  }());
+</script>

@@ -1,0 +1,36 @@
+{% include base_path %}
+
+{% assign publication = include.publication %}
+{% assign publication_title = publication.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% assign publication_year = publication.date | default: "1900-01-01" | date: "%Y" %}
+
+<article class="publication-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="publication-card__topline">
+    <span>{{ publication_year }}</span>
+    {% if publication.venue %}
+      <span>{{ publication.venue }}</span>
+    {% endif %}
+  </div>
+
+  <h3 class="publication-card__title" itemprop="headline">
+    <a href="{{ base_path }}{{ publication.url }}" rel="permalink">{{ publication_title }}</a>
+  </h3>
+
+  {% if publication.excerpt %}
+    <p class="publication-card__excerpt" itemprop="description">{{ publication.excerpt | markdownify | strip_html }}</p>
+  {% endif %}
+
+  {% if publication.citation %}
+    <p class="publication-card__citation"><strong>Citation:</strong> {{ publication.citation }}</p>
+  {% endif %}
+
+  <div class="publication-card__links">
+    <a href="{{ base_path }}{{ publication.url }}" rel="permalink">Details</a>
+    {% if publication.paperurl %}
+      <a href="{{ publication.paperurl }}">Paper</a>
+    {% endif %}
+    {% if publication.slidesurl %}
+      <a href="{{ publication.slidesurl }}">Slides</a>
+    {% endif %}
+  </div>
+</article>
