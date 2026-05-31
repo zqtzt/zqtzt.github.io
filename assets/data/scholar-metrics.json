@@ -4,11 +4,11 @@
   "profile_id": "Bha1c94AAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=Bha1c94AAAAJ&hl=en",
   "updated_at": null,
-  "last_attempted_at": "2026-05-28T06:59:39Z",
+  "last_attempted_at": "2026-05-31T07:02:40Z",
   "metrics": {
     "citations": null,
     "h_index": null,
     "i10_index": null
   },
-  "message": "Automatic update failed: Missing Scholar metrics: citations, h-index, i10-index"
+  "message": "Automatic update failed: HTTP Error 403: Forbidden"
 }
