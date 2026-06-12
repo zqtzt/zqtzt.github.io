@@ -13,17 +13,19 @@ redirect_from:
     <p class="observatory-kicker">Ocean &amp; Climate Scientist</p>
     <h1 id="observatory-title"><span>Zhetao Tan</span> <span>(谭哲韬)</span></h1>
     <p class="observatory-hero__role">Postdoctoral investigator at LMD-IPSL, École Normale Supérieure - PSL</p>
-    <p class="observatory-hero__summary">I study compound ocean climate change by integrating ocean observations, data-quality improvement methods, climate-state diagnostics, and physical–biogeochemical mechanisms to support climate-related risk assessment and adaptation in marine systems.</p>
+    <p class="observatory-hero__summary">I study compound ocean climate change by integrating ocean observations, data-quality improvement methods, climate-state diagnostics, and physical–biogeochemical mechanisms to support climate-related risk assessment and marine governance.</p>
     <div class="observatory-tags" aria-label="Research keywords">
       <span>Ocean Observations</span>
-      <span>Ocean Climate State</span>
+      <span>Ocean Climate State Change</span>
       <span>Physical Oceanography &amp; Biogeochemistry</span>
       <span>Climate Risk &amp; Climate Adaptation</span>
+      <span>Marine Governance</span>
     </div>
     <div class="observatory-actions">
       <a class="observatory-button observatory-button--primary" href="http://www.ocean.iap.ac.cn/pages/dataV/dataV.html?navAnchor=dataV">Dashboard</a>
     </div>
   </div>
+
 
   <figure class="observatory-panel observatory-panel--image" aria-label="Research themes preview">
     <img src="/images/research_interest.png" alt="Research themes covering ocean observations, ocean climate state, physical oceanography, and climate adaptation">
@@ -33,7 +35,7 @@ redirect_from:
 <section class="featured-research" aria-labelledby="featured-research-title">
   <div class="featured-research__label">Featured research</div>
   <h2 id="featured-research-title">Observed large-scale and deep-reaching compound ocean state changes over the past 60 years</h2>
-  <p class="featured-research__meta">Tan et al. · <em>Nature Climate Change</em> · 2025</p>
+  <p class="featured-research__meta">Tan et al. · <em>Nature Climate Change</em> · 2026</p>
   <p>This paper uses time-of-emergence (ToE) to highlight the increases in impacts of individual and compound changes globally from the surface to the deeper ocean, identifying areas most affected.</p>
   <p class="featured-research__citation"><strong>Citation:</strong> Tan, Z., von Schuckmann, K., Speich, S. et al. Observed large-scale and deep-reaching compound ocean state changes over the past 60 years. <em>Nat. Clim. Chang.</em> 16, 58–68 (2026). <a href="https://doi.org/10.1038/s41558-025-02484-x">https://doi.org/10.1038/s41558-025-02484-x</a></p>
   <div class="featured-research__facts">
@@ -77,19 +79,24 @@ redirect_from:
       <h3>Climate Risk & Climate Adaptation</h3>
       <p>Compound risk assessment, climate exposure information for ocean governance, marine protected areas, exclusive economic zones, and mariculture applications.</p>
     </article>
+    <article>
+      <span class="theme-index">05</span>
+      <h3>Marine Governance</h3>
+      <p>Designation of Climate-Ready Marine Protected Areas (MPAs) under BBNJ framework.</p>
+    </article>    
   </div>
   <p class="cv-links research-themes__cv">You can find my CV <a href="/files/Zhetao-CV-English.pdf">here</a>. 中文简历可以在<a href="/files/谭哲韬-学术中文简历.pdf">这里</a>获取。</p>
 </section>
 
 <section class="data-tools" aria-labelledby="data-tools-title">
   <div>
-    <p class="observatory-kicker">Data, tools, and reproducibility</p>
-    <h2 id="data-tools-title">Reusable research outputs</h2>
+    <p class="observatory-kicker">Datasets, tools, and reproducibility</p>
+    <h2 id="data-tools-title">Reusable Research</h2>
   </div>
   <div class="data-tools__grid">
     <a href="http://www.ocean.iap.ac.cn/ftp/cheng/Compound_CIDs/">
       <span>Dataset</span>
-      <strong>IAP Compound CIDs monitoring dataset v0.1</strong>
+      <strong>IAP Compound CIDs monitoring dataset (v1.0)</strong>
       <small>ToE for individual and compound CIDs from 1980 to 2023.</small>
     </a>
     <a href="http://www.ocean.iap.ac.cn/ftp/cheng/CODCv2_Insitu_T_S_database/">
@@ -104,6 +111,7 @@ redirect_from:
     </a>
   </div>
 </section>
+
 
 <section class="about-observatory" aria-labelledby="about-observatory-title">
   <h2 id="about-observatory-title">About Me</h2>
