@@ -2,6 +2,7 @@
 title: "[July 2024] Co-organized a China-Indonesia Bilateral workshop of 'Ocean, Climate and Atmospheric Environment at IAP/CAS"
 excerpt: "Honor to be one of the members of the organizing committee <br/><img src='./workshop.JPG'>"
 collection: portfolio
+date: 2024-07-02
 ---
 
 On July 2024, A China-Indonesia Bilateral workshop of 'Ocean, Climate and Atmospheric Environment' was held at IAP/CAS.

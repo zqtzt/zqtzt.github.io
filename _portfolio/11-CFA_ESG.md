@@ -2,6 +2,7 @@
 title: "[August 2023] Certificate in CFA-ESG Investment (Environmental, Social, and Governance)"
 excerpt: "I successfully held the Certificate in CFA-ESG investment in August 2023<br/><img src='./CFA_ESG_certifiate.jpg'>"
 collection: portfolio
+date: 2023-08-01
 ---
 
 **ESG (Environmental, Social, and Governance)** is a framework used by financial investors to assess a company's sustainability and ethical impact. The Environmental aspect evaluates a company's stewardship of nature and **climate change**, Social criteria look at relationships with employees and communities, and Governance involves leadership and shareholder rights. This approach helps investors identify potential risks and opportunities beyond traditional financial analysis.

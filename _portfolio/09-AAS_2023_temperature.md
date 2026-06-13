@@ -2,6 +2,7 @@
 title: "[January 2024] Ocean Temperatures Helped Make 2023 the Hottest Year Ever Recorded"
 excerpt: "New record ocean temperatures and related climate indicators in 2023 <br/><img src='./AAS_2023_1.png'>"
 collection: portfolio
+date: 2024-01-01
 ---
 
 [Chinese version is here: [**AAS: 2023年海洋主要气候变化指标均创新高**](https://iap.cas.cn/gb/xwdt/kyjz/202401/t20240111_6953597.html)]

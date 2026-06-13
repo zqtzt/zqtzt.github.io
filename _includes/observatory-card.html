@@ -1,0 +1,93 @@
+{% include base_path %}
+
+{% assign item = include.item %}
+{% assign card_type = include.card_type | default: item.collection %}
+{% assign title = item.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% assign item_year = item.date | default: "1900-01-01" | date: "%Y" %}
+{% assign image_src = "" %}
+{% assign image_url = "" %}
+
+{% if item.header.teaser and item.header.teaser != "" %}
+  {% assign image_src = item.header.teaser %}
+{% endif %}
+
+{% if image_src == "" %}
+  {% if item.excerpt contains "<img" %}
+    {% assign single_quote_image = item.excerpt | split: "src='" %}
+    {% if single_quote_image.size > 1 %}
+      {% assign image_src = single_quote_image | last | split: "'" | first %}
+    {% else %}
+      {% assign double_quote_image = item.excerpt | split: 'src="' %}
+      {% if double_quote_image.size > 1 %}
+        {% assign image_src = double_quote_image | last | split: '"' | first %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endif %}
+
+{% if image_src != "" %}
+  {% if image_src contains "://" %}
+    {% assign image_url = image_src %}
+  {% elsif image_src contains "./" %}
+    {% assign clean_image_src = image_src | replace: "./", "" %}
+    {% if card_type == "portfolio" %}
+      {% assign image_url = clean_image_src | prepend: "/portfolio/" %}
+    {% elsif card_type == "talks" %}
+      {% assign image_url = clean_image_src | prepend: "/talks/" %}
+    {% else %}
+      {% assign image_url = clean_image_src | prepend: "/images/" %}
+    {% endif %}
+  {% elsif image_src contains "/" %}
+    {% assign image_url = image_src %}
+  {% elsif card_type == "portfolio" %}
+    {% assign image_url = image_src | prepend: "/portfolio/" %}
+  {% elsif card_type == "talks" %}
+    {% assign image_url = image_src | prepend: "/talks/" %}
+  {% else %}
+    {% assign image_url = image_src | prepend: "/images/" %}
+  {% endif %}
+  {% assign image_url = image_url | prepend: base_path %}
+{% endif %}
+
+{% assign excerpt_text = item.excerpt | markdownify | strip_html | strip %}
+
+<article class="observatory-card observatory-card--{{ card_type }}" itemscope itemtype="http://schema.org/CreativeWork">
+  {% if image_url != "" %}
+    <a class="observatory-card__media" href="{{ base_path }}{{ item.url }}" rel="permalink" aria-label="{{ title }}">
+      <img src="{{ image_url }}" alt="">
+    </a>
+  {% endif %}
+
+  <div class="observatory-card__body">
+    <div class="publication-card__topline observatory-card__topline">
+      {% if item.date %}
+        <span>{{ item_year }}</span>
+      {% endif %}
+      {% if card_type == "talks" and item.type %}
+        <span>{{ item.type }}</span>
+      {% elsif card_type == "portfolio" %}
+        <span>Portfolio</span>
+      {% endif %}
+    </div>
+
+    <h3 class="publication-card__title observatory-card__title" itemprop="headline">
+      <a href="{{ base_path }}{{ item.url }}" rel="permalink">{{ title }}</a>
+    </h3>
+
+    {% if card_type == "talks" %}
+      <p class="observatory-card__meta">
+        {% if item.date %}{{ item.date | date: "%B %d, %Y" }}{% endif %}
+        {% if item.venue %}<span>{{ item.venue }}</span>{% endif %}
+        {% if item.location %}<span>{{ item.location }}</span>{% endif %}
+      </p>
+    {% endif %}
+
+    {% if excerpt_text != "" %}
+      <p class="publication-card__excerpt observatory-card__excerpt" itemprop="description">{{ excerpt_text | truncate: 220 }}</p>
+    {% endif %}
+
+    <div class="publication-card__links observatory-card__links">
+      <a href="{{ base_path }}{{ item.url }}" rel="permalink">Details</a>
+    </div>
+  </div>
+</article>

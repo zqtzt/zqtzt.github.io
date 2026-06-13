@@ -2,6 +2,7 @@
 title: "[Feb 2026] Contributing several roles to the Ocean Science Meeting 2026"
 excerpt: " I had the honor to chair, present several studies during the Ocean Science Meeting 2026 <br/><img src='./OSM-1.jpeg'>"
 collection: portfolio
+date: 2026-02-01
 ---
 
 From Feb 22-28 2026, I had the honor to attend the Ocean Science Meeting 2026 in Glasgow, Scotland.

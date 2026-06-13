@@ -2,6 +2,7 @@
 title: "[September 2025] Participated to the OCEAN:ICE annual project meeting in Copenhagen, Denmark"
 excerpt: "An update of my post-doc project in Task 5.1 complexity of climate issues <br/><img src='./Cophagen-1.jpg'>"
 collection: portfolio
+date: 2025-09-14
 ---
 
 I was glad to join the [OCEAN ICE](https://www.linkedin.com/company/euoceanice/) annual project meeting in Copenhagen from September 14-18. I was great to connect with new colleagues and share a presentation representing WP5 (Working Package 5; Task 5.1) about **the trends and variability of the South Atlantic upper ocean water mass in the past 45 years**. 

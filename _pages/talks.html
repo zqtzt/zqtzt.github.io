@@ -7,10 +7,26 @@ author_profile: true
 
 {% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<div class="publication-observatory collection-observatory">
+  <section class="collection-map-link">
+    <p class="observatory-kicker">Talk map</p>
+    <h2>Talks and presentations</h2>
+    <p>See the places where I have given talks and presentations.</p>
+    <div class="publication-card__links">
+      <a href="/talkmap.html">Open talk map</a>
+    </div>
+  </section>
+</div>
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<section class="publication-section collection-section" aria-labelledby="talks-list-title">
+  <div class="publication-section__head">
+    <h2 id="talks-list-title">Talks and Presentations</h2>
+  </div>
+  <div class="publication-card-grid observatory-card-grid">
+    {% for post in site.talks reversed %}
+      {% include observatory-card.html item=post card_type="talks" %}
+    {% endfor %}
+  </div>
+</section>

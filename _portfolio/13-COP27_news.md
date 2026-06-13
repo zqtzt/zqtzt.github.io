@@ -2,6 +2,7 @@
 title: "[November 2022] Outflow delegation of UNFCCC-COP27"
 excerpt: "As a outflow delegation of China to co-organized a side event on climate extremes at COP27 <br/><img src='./COP27-3.jpeg'>"
 collection: portfolio
+date: 2022-11-01
 ---
 
 On November 11, 2022, The Chinese government organized a side event "Climate extremes: prediction and early warning" during the 27th Conference of the Parties to the United Nations Framework Convention on Climate Change ([COP27](https://www.un.org/en/climatechange/cop27)) in the China Pavilion.

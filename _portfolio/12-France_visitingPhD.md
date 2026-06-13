@@ -2,6 +2,7 @@
 title: "[September 2023] Visiting PhD in France: Mercator Ocean international"
 excerpt: "This is the summary of my overseas studies in France from 2022 to 2023 <br/><img src='./France-1.jpeg'>"
 collection: portfolio
+date: 2023-09-01
 ---
 
 **From September 2022 to September 2023, I served as a visiting PhD student based in Mercator Ocean international based in Toulouse, France, advised by Karina von Schuckmann and Sabrina Speich (LMD/ENS).**

@@ -2,6 +2,7 @@
 title: "[September 2025] Visiting researcher at NORCE, Norway"
 excerpt: "Seminar&Poster, as well as potential collorbations <br/><img src='./Bergen-3.jpg'>"
 collection: portfolio
+date: 2025-09-21
 ---
 
 From September 21 to October 1, 2025, I served as a visiting researcher to visit [NORCE Research](https://www.linkedin.com/company/norce/) and the Bjerknes Centre for Climate Research (BCCR) in Bergen, Norway.

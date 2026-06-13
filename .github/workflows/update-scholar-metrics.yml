@@ -22,7 +22,14 @@ jobs:
           python-version: "3.x"
 
       - name: Fetch Google Scholar metrics
-        run: python scripts/update_scholar_metrics.py
+        env:
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: |
+          if [ -z "$SERPAPI_API_KEY" ]; then
+            echo "::error::SERPAPI_API_KEY repository secret is required for Scholar metrics updates."
+            exit 1
+          fi
+          python scripts/update_scholar_metrics.py
 
       - name: Commit updated metrics
         run: |

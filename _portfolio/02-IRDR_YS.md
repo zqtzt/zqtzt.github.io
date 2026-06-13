@@ -2,6 +2,7 @@
 title: "[November 2025] Selected to the IRDR Young Scientists Programme (YSP)"
 excerpt: "Project for climate disaster risk reduction <br/><img src='./IRDR-1.jpeg'>"
 collection: portfolio
+date: 2025-11-01
 ---
 
 I am pleased to announce that I was successfully selected to be part of the Integrated Research on Disaster Risk (IRDR) Young Scientists Programme (YSP).

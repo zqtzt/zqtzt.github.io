@@ -2,6 +2,7 @@
 title: "[October 2024] Lead a task team in IQuOD (International Quality Controlled Ocean Database"
 excerpt: "Serve as the team leader of the duplicate checking of ocean databases <br/><img src='./IQUOD_meeting_2.jpeg'>"
 collection: portfolio
+date: 2024-10-01
 ---
 
 Since 2022, I served as **a task team leader** of ‘duplicate checking group’ under the framework of [IQuOD](https://www.iquod.org/). The group is to achieve the goal of identifying and removing duplicated profiles from the World Ocean Database (WOD) and IQuOD databases.

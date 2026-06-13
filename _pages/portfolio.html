@@ -7,8 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign portfolio_items = site.portfolio | sort: "date" | reverse %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<section class="publication-section collection-section" aria-labelledby="portfolio-list-title">
+  <div class="publication-section__head">
+    <h2 id="portfolio-list-title">Portfolio</h2>
+  </div>
+  <div class="publication-card-grid observatory-card-grid">
+    {% for post in portfolio_items %}
+      {% include observatory-card.html item=post card_type="portfolio" %}
+    {% endfor %}
+  </div>
+</section>
