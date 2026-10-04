@@ -4,11 +4,11 @@
   "provider": "SerpApi Google Scholar Author API",
   "profile_id": "Bha1c94AAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=Bha1c94AAAAJ&hl=en",
-  "updated_at": "2026-10-01T09:58:52Z",
+  "updated_at": "2026-10-04T09:33:44Z",
   "metrics": {
-    "citations": 846,
+    "citations": 844,
     "h_index": 12,
-    "i10_index": 13
+    "i10_index": 12
   },
   "message": "Updated automatically from SerpApi Google Scholar Author API."
 }
